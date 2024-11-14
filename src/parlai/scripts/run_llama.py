@@ -3,58 +3,52 @@ import json
 import pandas as pd
 from llama2 import Llama2Model
 
-def process_tsv_files(data_dir, output_dir, model, max_history_len=3):
-    # Create output directory if it doesn't exist
+def process_and_save_dpo_data(data_dir, output_dir, model):
     os.makedirs(output_dir, exist_ok=True)
 
-    # Iterate over each TSV file in the specified directory
     for filename in os.listdir(data_dir):
         if filename.endswith('.tsv'):
-            # Load TSV file
             file_path = os.path.join(data_dir, filename)
             df = pd.read_csv(file_path, sep='\t')
 
-            # Initialize conversation history
-            history = []
+            dpo_records = []  # Store DPO data in a list of dictionaries
 
-            # Prepare output file
-            output_path = os.path.join(output_dir, filename.replace('.tsv', '_results.tsv'))
-            results = []
-
-            # Process each line in the TSV file
+            history = ""
             for _, row in df.iterrows():
-                # Build observation from TSV row, e.g., `text` could be the student input
-                observation = {"text": row['text']}
+                # Extract student-teacher conversation data
+                student_text = row['text']
+                original_response = row.get('response', '')  # Original response in TSV
 
-                # Generate a response using Llama2Model with history
-                response = model.act(observation, history)
+                # Create prompt and get Llama response
+                prompt = f"Student: {student_text}\nTeacher:"
+                full_prompt, llama_response = model.converse(prompt, history)
 
-                # Store results and update history
-                results.append({"text": row['text'], "response": response})
-                history.insert(0, {"text": row['text'], "labels": [response]})
-                if len(history) > max_history_len:
-                    history.pop()
+                # Append to DPO records
+                dpo_records.append({
+                    "prompt": full_prompt,
+                    "original_response": original_response,
+                    "llama_response": llama_response
+                })
 
-            # Save the results for this file
-            results_df = pd.DataFrame(results)
-            results_df.to_csv(output_path, sep='\t', index=False)
-            print(f"Processed and saved results for {filename}")
+                # Update history for the conversation
+                history += f"{prompt} {original_response}\n"
+
+            # Save DPO records to a JSONL file
+            output_path = os.path.join(output_dir, f"{filename.replace('.tsv', '_dpo.jsonl')}")
+            with open(output_path, 'w') as f:
+                for record in dpo_records:
+                    f.write(json.dumps(record) + '\n')
+
+            print(f"Processed and saved DPO data for {filename}")
 
 def main():
-    # Load model configuration
     config_path = 'src/parlai/opts/gpt3.json'
-    with open(config_path, 'r') as f:
-        config = json.load(f)
-
-    # Initialize Llama2Model
     model = Llama2Model(config_path=config_path)
 
-    # Define input and output directories (can be replaced with command-line arguments as needed)
     data_dir = 'data/0_datasets/tscc/'
-    output_dir = 'results/'
+    output_dir = 'results/dpo_data/'
 
-    # Process all TSV files in the directory
-    process_tsv_files(data_dir, output_dir, model)
+    process_and_save_dpo_data(data_dir, output_dir, model)
 
 if __name__ == "__main__":
     main()

@@ -57,7 +57,7 @@ class Llama2Model:
         prompt = f"{instructions}\n\n{history}\n{prefix_t} {current}\n{prefix_ai}" if history else f"{instructions}\n\n{prefix_t} {current}\n{prefix_ai}"
         return prompt
 
-    def generate(self, prompt):
+    def generate_response(self, prompt):
         inputs = self.tokenizer(prompt, return_tensors="pt")
         with torch.no_grad():
             outputs = self.model.generate(
@@ -71,15 +71,19 @@ class Llama2Model:
         return response
 
     def converse(self, observation, history):
+        # Generate prompt with restricted history
         prompt = self.make_prompt(observation, history)
-        return self.generate(prompt)
+        response = self.generate_response(prompt)
+        return prompt, response  # Return full prompt and response
+
+    def converse(self, prompt, history):
+        # Format full prompt using history
+        prompt_with_history = f"{history}\n{prompt}"
+        response = self.generate_response(prompt_with_history)
+        return prompt_with_history, response  # Return both prompt and response
 
     @staticmethod
     def tokenize(text):
         # Simulate token count (use tokenizer if counting tokens)
         return text.split()
 
-    def act(self, observation, history):
-        # Build the prompt and generate response
-        prompt = self.make_prompt(observation, history)
-        return self.generate(prompt)
