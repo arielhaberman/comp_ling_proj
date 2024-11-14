@@ -45,7 +45,7 @@ def main():
     config_path = 'src/parlai/opts/gpt3.json'
     model = Llama2Model(config_path=config_path)
 
-    data_dir = 'data/0_datasets/tscc/'
+    data_dir = 'data/tscc/train'
     output_dir = 'results/dpo_data/'
 
     process_and_save_dpo_data(data_dir, output_dir, model)

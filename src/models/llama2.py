@@ -21,7 +21,7 @@ class Llama2Model:
         
         self.max_tokens = config.get("gpt3_max_tokens", 500)
         self.temperature = config.get("gpt3_temperature", 0.7)
-        model_path = config.get("model_path", "path_to_downloaded_llama2_model")
+        model_path = "/scratch/ah5192/comp_ling/models/llama-2-7b-chat-hf"
 
         # Load tokenizer and model
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
@@ -75,7 +75,7 @@ class Llama2Model:
         prompt = self.make_prompt(observation, history)
 
         prompt_tokens = count_prompt_tokens(prompt)
-        assert prompt_tokens + max_completion_len <= 2048
+        assert prompt_tokens + max_completion_len <= MAX_CONTEXT_LEN
         
         response = self.generate_response(prompt)
         return prompt, response  # Return full prompt and response
