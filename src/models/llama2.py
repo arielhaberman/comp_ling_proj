@@ -73,17 +73,35 @@ class Llama2Model:
     def converse(self, observation, history):
         # Generate prompt with restricted history
         prompt = self.make_prompt(observation, history)
+
+        prompt_tokens = count_prompt_tokens(prompt)
+        assert prompt_tokens + max_completion_len <= 2048
+        
         response = self.generate_response(prompt)
         return prompt, response  # Return full prompt and response
 
-    def converse(self, prompt, history):
-        # Format full prompt using history
-        prompt_with_history = f"{history}\n{prompt}"
-        response = self.generate_response(prompt_with_history)
-        return prompt_with_history, response  # Return both prompt and response
 
     @staticmethod
     def tokenize(text):
         # Simulate token count (use tokenizer if counting tokens)
         return text.split()
 
+    def count_prompt_tokens(prompt, stop):
+    stopwords_count = 0
+    tokens_count = 0
+
+    # because the tokenizer does not handle long sequences (max. 1024 tokens)
+    # split the text to different lines and feed them to the tokenizer
+    # this also removes the newline as stopword without counting it
+    for line in re.split(r'\n+', prompt):
+
+        # remove stopwords and trailing space (chatbot completion prefixes)
+        for stopword in stop or []:
+            line, count = re.subn(r'{}((?<=\:) )?'.format(
+                re.escape(stopword)), r'', line)
+            stopwords_count += count
+
+        # tokenize the clean string
+        tokens_count += len(tokenize(line))
+
+    return stopwords_count + tokens_count
