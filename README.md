@@ -20,3 +20,5 @@ BEFORE STARTING CHECK PATHS OF ALL FILES, THEY'RE SET TO MINE AND ALSO SOME MIGH
 
 Note: my greene has been weird recently but you might need to do two scp call when the singularity is running: the first is from your local machine to greene like above and the second is from the singularity to greene like this
 scp (-r for a folder) greene-dtn:/scratch/netid/location_on_greene /scratch/netid/location you want it on the singularity
+
+Also: Ignore the models and teachers folders - I had some file management issues
