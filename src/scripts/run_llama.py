@@ -9,31 +9,47 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
     for filename in os.listdir(data_dir):
         if filename.endswith('.tsv'):
             file_path = os.path.join(data_dir, filename)
-            df = pd.read_csv(file_path, sep='\t')
+            tscc_chat = Chat.from_tsv(file_path)  # Load chat from TSV file
 
-            dpo_records = []  # Store DPO data in a list of dictionaries
+            dpo_records = []
+            history = []
 
-            history = ""
-            for _, row in df.iterrows():
-                # Extract student-teacher conversation data
-                student_text = row['text']
-                original_response = row.get('response', '')  # Original response in TSV
+            # Iterate over dialogic pairs to structure conversation
+            pair_func = _make_dialogic_pairs(role_first="student")
+            turns_by_role = itertools.groupby(tscc_chat.turns, key=lambda t: t.role)
+            turns_by_role = ((role, list(turns_grp)) for role, turns_grp in turns_by_role)
+            turns_by_pair = itertools.groupby(turns_by_role, key=lambda rt_pair: pair_func(rt_pair[0]))
 
-                # Create prompt and get Llama response
-                prompt = f"Student: {student_text}\nTeacher:"
-                full_prompt, llama_response = model.converse(prompt, history)
+            for i, (__, grouper) in enumerate(turns_by_pair):
+                roles, turns = zip(*grouper)
+                turns = tuple(turns)
 
-                # Append to DPO records
+                # Check if we have a student-teacher pair
+                if len(turns) == 2:
+                    student_text = _concat_turns(turns[0], use_edits=True)
+                    teacher_text = _concat_turns(turns[1], use_edits=True)
+                    observation = {"text": student_text}
+                    history.insert(0, {"text": student_text, "labels": [teacher_text]})
+                elif len(turns) == 1 and roles[0] == "student":
+                    # Handle case where student turn is not followed by a teacher turn
+                    student_text = _concat_turns(turns[0], use_edits=True)
+                    observation = {"text": student_text}
+                    history.insert(0, {"text": student_text, "labels": [""]})
+
+                # Generate prompt and response
+                full_prompt, llama_response = model.converse(observation, history)
                 dpo_records.append({
                     "prompt": full_prompt,
-                    "original_response": original_response,
+                    "original_response": teacher_text if len(turns) == 2 else "",
                     "llama_response": llama_response
                 })
+                print(full_prompt)
 
-                # Update history for the conversation
-                history += f"{prompt} {original_response}\n"
+                # Maintain conversation history length
+                if len(history) > 3:
+                    history.pop()
 
-            # Save DPO records to a JSONL file
+            # Save to file
             output_path = os.path.join(output_dir, f"{filename.replace('.tsv', '_dpo.jsonl')}")
             with open(output_path, 'w') as f:
                 for record in dpo_records:
