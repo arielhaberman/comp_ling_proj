@@ -8,7 +8,7 @@ from tscc import Chat, _make_dialogic_pairs, _concat_turns
 
 def process_and_save_dpo_data(data_dir, output_dir, model):
     os.makedirs(output_dir, exist_ok=True)
-
+    big_start = time.time()
     for filename in os.listdir(data_dir):
         if filename.endswith('.tsv'):
             file_path = os.path.join(data_dir, filename)
@@ -61,6 +61,10 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
                     f.write(json.dumps(record) + '\n')
 
             print(f"Processed and saved DPO data for {filename}")
+
+    big_end = time.time()
+    big_duration = big_end - big_start
+    print(f"Processed files in {big_duration:.2f} seconds")
 
 def main():
     config_path = 'src/opts/gpt3.json'
