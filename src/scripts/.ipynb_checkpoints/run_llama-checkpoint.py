@@ -1,14 +1,16 @@
 import os
 import json
-import itertool
+import itertools
 import time
 import pandas as pd
+import argparse
 from llama2 import Llama2Model
 from tscc import Chat, _make_dialogic_pairs, _concat_turns
 
 def process_and_save_dpo_data(data_dir, output_dir, model):
     os.makedirs(output_dir, exist_ok=True)
-
+    big_start = time.time()
+    
     for filename in os.listdir(data_dir):
         if filename.endswith('.tsv'):
             file_path = os.path.join(data_dir, filename)
@@ -18,43 +20,49 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
             history = []
 
             for turn in tscc_chat.turns:
-                start_time = time.time()
+                #start_time = time.time()
 
-                # Process each turn based on the role
                 if turn.role == "student":
-                    # Add student turn to history with no teacher response initially
+                    # Add student turn to history with an empty placeholder for teacher response
                     student_text = turn.edited or turn.anonymised
                     history.append({"text": student_text, "labels": [""]})
 
                 elif turn.role == "teacher":
-                    # If there's an unpaired student in history, add teacher's response
+                    # Check if the previous entry in history is a student without a response
                     if history and history[-1]["labels"] == [""]:
-                        history[-1]["labels"] = [turn.edited or turn.anonymised]
+                        # Store the original teacher response for the last student entry
+                        teacher_response = turn.edited or turn.anonymised
+                        history[-1]["labels"] = [teacher_response]  # Update history with teacher's response
 
-                # Prepare observation only if the last entry is a student with no teacher response
-                if history and history[-1]["labels"] == [""]:
+                # Generate prompt and response only if the last entry is a student awaiting a teacher response
+                if history and history[-1]["labels"] != [""]:
+                    # Capture the original teacher response before generating the Llama response
+                    original_teacher_response = history[-1]["labels"][0]
                     observation = {"text": history[-1]["text"]}
-                else:
-                    observation = None
+                    
+                    # Generate the prompt based on the current history
+                    full_prompt = model.make_prompt(observation, history)
+                    llama_response = model.generate_response(full_prompt)  # Generate Llama response only
 
-                if observation is not None:
-                    # Generate prompt and response
-                    full_prompt, llama_response = model.converse(observation, history)
+                    # Save the prompt, original response, and Llama response separately
                     dpo_records.append({
                         "prompt": full_prompt,
-                        "original_response": history[-1]["labels"][0],
+                        "original_response": original_teacher_response,
                         "llama_response": llama_response
                     })
-                    print(full_prompt)
+                    #print(f"Full prompt:\n{full_prompt}")
+                    #print(f"Original response: {original_teacher_response}")
+                    #print(f"Llama response: {llama_response}")
 
-                # Maintain a maximum of 3 history entries
+                # Keep history to the last 3 entries to manage memory
                 if len(history) > 3:
                     history.pop(0)
 
-                end_time = time.time()
-                duration = end_time - start_time
-                print(f"Processed prompt in {duration:.2f} seconds")
+                #end_time = time.time()
+                #duration = end_time - start_time
+                #print(f"Processed prompt in {duration:.2f} seconds")
 
+            # Save the collected DPO records to a JSONL file with separated fields
             output_path = os.path.join(output_dir, f"{filename.replace('.tsv', '_dpo.jsonl')}")
             with open(output_path, 'w') as f:
                 for record in dpo_records:
@@ -62,16 +70,23 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
 
             print(f"Processed and saved DPO data for {filename}")
 
-def main():
+    big_end = time.time()
+    big_duration = big_end - big_start
+    print(f"Processed files in {big_duration:.2f} seconds")
+
+def main(data_dir, output_dir):
     config_path = 'src/opts/gpt3.json'
     model = Llama2Model(config_path=config_path)
 
-    data_dir = 'data/tscc_split/tiny'
-    output_dir = 'results/dpo_data/'
+    #data_dir = 'data/tscc_split/tiny'
+    #output_dir = 'results/dpo_data/'
 
     process_and_save_dpo_data(data_dir, output_dir, model)
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--data_dir", type=str, required=True, help="Directory containing input TSV files")
+    parser.add_argument("--output_dir", type=str, required=True, help="Directory to save output JSONL files")
+    args = parser.parse_args()
 
-#python -m src.parlai.scripts.run -m src.parlai.models.llama2:Llama2Model -o src/parlai/opts/gpt3.json -t TSCC -d data/0_datasets/tscc/ -O results/
+    main(args.data_dir, args.output_dir)

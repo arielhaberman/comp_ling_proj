@@ -3,6 +3,7 @@ import json
 import itertools
 import time
 import pandas as pd
+import argparse
 from llama2 import Llama2Model
 from tscc import Chat, _make_dialogic_pairs, _concat_turns
 
@@ -19,7 +20,7 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
             history = []
 
             for turn in tscc_chat.turns:
-                start_time = time.time()
+                #start_time = time.time()
 
                 if turn.role == "student":
                     # Add student turn to history with an empty placeholder for teacher response
@@ -49,17 +50,17 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
                         "original_response": original_teacher_response,
                         "llama_response": llama_response
                     })
-                    print(f"Full prompt:\n{full_prompt}")
-                    print(f"Original response: {original_teacher_response}")
-                    print(f"Llama response: {llama_response}")
+                    #print(f"Full prompt:\n{full_prompt}")
+                    #print(f"Original response: {original_teacher_response}")
+                    #print(f"Llama response: {llama_response}")
 
                 # Keep history to the last 3 entries to manage memory
                 if len(history) > 3:
                     history.pop(0)
 
-                end_time = time.time()
-                duration = end_time - start_time
-                print(f"Processed prompt in {duration:.2f} seconds")
+                #end_time = time.time()
+                #duration = end_time - start_time
+                #print(f"Processed prompt in {duration:.2f} seconds")
 
             # Save the collected DPO records to a JSONL file with separated fields
             output_path = os.path.join(output_dir, f"{filename.replace('.tsv', '_dpo.jsonl')}")
@@ -73,16 +74,19 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
     big_duration = big_end - big_start
     print(f"Processed files in {big_duration:.2f} seconds")
 
-def main():
+def main(data_dir, output_dir):
     config_path = 'src/opts/gpt3.json'
     model = Llama2Model(config_path=config_path)
 
-    data_dir = 'data/tscc_split/tiny'
-    output_dir = 'results/dpo_data/'
+    #data_dir = 'data/tscc_split/tiny'
+    #output_dir = 'results/dpo_data/'
 
     process_and_save_dpo_data(data_dir, output_dir, model)
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--data_dir", type=str, required=True, help="Directory containing input TSV files")
+    parser.add_argument("--output_dir", type=str, required=True, help="Directory to save output JSONL files")
+    args = parser.parse_args()
 
-#python -m src.parlai.scripts.run -m src.parlai.models.llama2:Llama2Model -o src/parlai/opts/gpt3.json -t TSCC -d data/0_datasets/tscc/ -O results/
+    main(args.data_dir, args.output_dir)
