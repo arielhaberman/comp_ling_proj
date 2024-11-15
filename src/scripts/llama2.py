@@ -9,7 +9,8 @@ STUDENT_PREFIX = 'Student:'
 TEACHER_PREFIX = 'Teacher:'
 AI_PREFIX = 'AI:'
 STOP = ["\n", f"{STUDENT_PREFIX}", f"{TEACHER_PREFIX}", f"{AI_PREFIX}"]
-INSTRUCTIONS = "The following is a conversation with a teacher. Please continue the conversation as the teacher."
+INSTRUCTIONS = "The following is a conversation with a teacher and student. "\
+               "Please respond once as the teacher but do not continue the conversation beyond that."
 
 class Llama2Model:
     MAX_CONTEXT_LEN = 4096  # Example max token length for Llama 2
@@ -66,6 +67,7 @@ class Llama2Model:
         return prompt
 
     def generate_response(self, prompt):
+        # Tokenize the prompt and generate the output
         inputs = self.tokenizer(prompt, return_tensors="pt")
         with torch.no_grad():
             outputs = self.model.generate(
@@ -75,8 +77,17 @@ class Llama2Model:
                 temperature=self.temperature,
                 eos_token_id=self.tokenizer.eos_token_id
             )
-        response = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-        return response
+    
+        # Decode the full generated text
+        full_output = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+    
+        # Extract the Llama response by removing the prompt part
+        if full_output.startswith(prompt):
+            llama_response = full_output[len(prompt):].strip()
+        else:
+            llama_response = full_output.strip()
+    
+        return llama_response
 
     def converse(self, observation, history):
         # Generate prompt with restricted history
