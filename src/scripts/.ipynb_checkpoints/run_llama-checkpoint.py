@@ -1,7 +1,10 @@
 import os
 import json
+import itertool
+import time
 import pandas as pd
 from llama2 import Llama2Model
+from tscc import Chat, _make_dialogic_pairs, _concat_turns
 
 def process_and_save_dpo_data(data_dir, output_dir, model):
     os.makedirs(output_dir, exist_ok=True)
@@ -9,31 +12,49 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
     for filename in os.listdir(data_dir):
         if filename.endswith('.tsv'):
             file_path = os.path.join(data_dir, filename)
-            df = pd.read_csv(file_path, sep='\t')
+            tscc_chat = Chat.from_tsv(file_path)
 
-            dpo_records = []  # Store DPO data in a list of dictionaries
+            dpo_records = []
+            history = []
 
-            history = ""
-            for _, row in df.iterrows():
-                # Extract student-teacher conversation data
-                student_text = row['text']
-                original_response = row.get('response', '')  # Original response in TSV
+            for turn in tscc_chat.turns:
+                start_time = time.time()
 
-                # Create prompt and get Llama response
-                prompt = f"Student: {student_text}\nTeacher:"
-                full_prompt, llama_response = model.converse(prompt, history)
+                # Process each turn based on the role
+                if turn.role == "student":
+                    # Add student turn to history with no teacher response initially
+                    student_text = turn.edited or turn.anonymised
+                    history.append({"text": student_text, "labels": [""]})
 
-                # Append to DPO records
-                dpo_records.append({
-                    "prompt": full_prompt,
-                    "original_response": original_response,
-                    "llama_response": llama_response
-                })
+                elif turn.role == "teacher":
+                    # If there's an unpaired student in history, add teacher's response
+                    if history and history[-1]["labels"] == [""]:
+                        history[-1]["labels"] = [turn.edited or turn.anonymised]
 
-                # Update history for the conversation
-                history += f"{prompt} {original_response}\n"
+                # Prepare observation only if the last entry is a student with no teacher response
+                if history and history[-1]["labels"] == [""]:
+                    observation = {"text": history[-1]["text"]}
+                else:
+                    observation = None
 
-            # Save DPO records to a JSONL file
+                if observation is not None:
+                    # Generate prompt and response
+                    full_prompt, llama_response = model.converse(observation, history)
+                    dpo_records.append({
+                        "prompt": full_prompt,
+                        "original_response": history[-1]["labels"][0],
+                        "llama_response": llama_response
+                    })
+                    print(full_prompt)
+
+                # Maintain a maximum of 3 history entries
+                if len(history) > 3:
+                    history.pop(0)
+
+                end_time = time.time()
+                duration = end_time - start_time
+                print(f"Processed prompt in {duration:.2f} seconds")
+
             output_path = os.path.join(output_dir, f"{filename.replace('.tsv', '_dpo.jsonl')}")
             with open(output_path, 'w') as f:
                 for record in dpo_records:
@@ -42,10 +63,10 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
             print(f"Processed and saved DPO data for {filename}")
 
 def main():
-    config_path = 'src/parlai/opts/gpt3.json'
+    config_path = 'src/opts/gpt3.json'
     model = Llama2Model(config_path=config_path)
 
-    data_dir = 'data/0_datasets/tscc/'
+    data_dir = 'data/tscc_split/tiny'
     output_dir = 'results/dpo_data/'
 
     process_and_save_dpo_data(data_dir, output_dir, model)
