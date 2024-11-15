@@ -68,7 +68,7 @@ def process_and_save_dpo_data(data_dir, output_dir, model):
 
 def main():
     config_path = 'src/opts/gpt3.json'
-    model = Llama2Model(config_path=config_path)
+    model = Llama2Model(config_path=config_path).to("cuda")
 
     data_dir = 'data/tscc_split/train'
     output_dir = 'results/dpo_data/'
