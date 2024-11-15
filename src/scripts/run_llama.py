@@ -66,7 +66,7 @@ def main():
     config_path = 'src/opts/gpt3.json'
     model = Llama2Model(config_path=config_path)
 
-    data_dir = 'data/tscc_split/tiny'
+    data_dir = 'data/tscc_split/train'
     output_dir = 'results/dpo_data/'
 
     process_and_save_dpo_data(data_dir, output_dir, model)
