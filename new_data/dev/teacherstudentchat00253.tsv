@@ -1,0 +1,140 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2021-05-27 10:50:37	student014	student	1	Hi <TEACHER>!	Hi <TEACHER>!		1.0	opening			
+2021-05-27 10:50:57	teacher008	teacher	2	Hi <STUDENT>!	Hi <STUDENT>!						
+2021-05-27 10:51:04	teacher008	teacher	3	How are you? How was your trip?	How are you? How was your trip?		2.0	topic opening			
+2021-05-27 10:51:33	student014	student	4	Hi! I am good thank you :) It was great! A bit tiring though: we met with a lot of relatives...	Hi! I am good thank you :) It was great! A bit tiring though: we met with a lot of relatives...						
+2021-05-27 10:51:41	student014	student	5	How about you? How are you?	How about you? How are you?		2a	topic development			
+2021-05-27 10:51:56	teacher008	teacher	7	Sounds lovely!	Sounds lovely!	4.0					
+2021-05-27 10:52:21	teacher008	teacher	8	Well, I had my first dose a week ago, so yay!	Well, I had my first dose a week ago, so yay!	5.0					
+2021-05-27 10:52:26	teacher008	teacher	9	of the covid vaccine I mean	of the covid vaccine I mean						
+2021-05-27 10:53:19	student014	student	10	Of course...Austria just sent the appointments to everyone who asked for the vaccine: I am getting my first dose in a month :)	Of course...Austria just sent the appointments to everyone who asked for the vaccine: I am getting my first dose in a month :)						
+2021-05-27 10:53:25	teacher008	teacher	11	Otherwise, we keep waiting for some sun, maybe we'll finally glimpse it this weekend	Otherwise, we keep waiting for some sun, maybe we'll finally glimpse it this weekend	9.0					
+2021-05-27 10:53:44	teacher008	teacher	12	Yay! A wait, but at least you have a date I suppose	Yay! A wait, but at least you have a date I suppose	10.0					
+2021-05-27 10:53:58	student014	student	13	That's true! The weather was terrible in Italy too...we had only two days without rain	That's true! The weather was terrible in Italy too...we had only two days without rain	11.0					
+2021-05-27 10:54:44	teacher008	teacher	14	Really? Well, if even Italy is all rainy, it kind of makes me feel a bit better :)	Really? Well, if even Italy is all rainy, it kind of makes me feel a bit better :)						
+2021-05-27 10:55:17	student014	student	15	Haha...in Italy we have a saying 'mal comune, mezzo gaudio' (a common pain is half a joy)	Haha...in Italy we have a saying 'mal comune, mezzo gaudio' (a common pain is half a joy)		2b	non-English	code switching,lexical resource		
+2021-05-27 10:55:40	teacher008	teacher	16	Haha, exactly! :)	Haha, exactly! :)						
+2021-05-27 10:55:55	teacher008	teacher	17	I wonder what the saying is in English, there should be something...	I wonder what the saying is in English, there should be something...						
+2021-05-27 10:56:00	student014	student	18	But I didn't have time for the writing, sorry...we really travelled a lot!	But I didn't have time for the writing, sorry...we really travelled a lot!		2c	topic development			
+2021-05-27 10:56:19	student014	student	19	miserly loves company...maybe	misery loves company...maybe	17.0					
+2021-05-27 10:56:30	student014	student	20	(I found it with google, I didn't know it)	(I found it with google, I didn't know it)						
+2021-05-27 10:56:39	teacher008	teacher	21	No worries! I'm taking the next week off teaching because my son will be on holiday, so if you still want to do it, you'll have some extra time	No worries! I'm taking the next week off teaching because my son will be on holiday, so if you still want to do it, you'll have some extra time	18.0					
+2021-05-27 10:57:07	student014	student	22	That's great! Agreed!	That's great! Agreed!						
+2021-05-27 10:57:21	teacher008	teacher	23	Yes, kind of 'misery loves company', hmmm	Yes, kind of 'misery loves company', hmmm	20.0		repair	writing		
+2021-05-27 10:57:29	teacher008	teacher	24	But the Italian one is more joyful!	But the Italian one is more joyful!						
+2021-05-27 10:58:08	student014	student	25	Yes, at least it mentions something that isn't misery..	Yes, at least it mentions something that isn't misery..						
+2021-05-27 10:58:58	teacher008	teacher	26	Lovely! Also, I am sad to say that we will be closing the teaching project on June 18, which means that we will only have the time for two classes, between June 7 and June 18	Lovely! Also, I am sad to say that we will be closing the teaching project on June 18, which means that we will only have the time for two classes, between June 7 and June 18		3.0	topic opening			
+2021-05-27 10:59:49	student014	student	27	I see :) Okay, well it was a nice opportunity so I can only be thankful abou it	I see :) Okay, well it was a nice opportunity so I can only be thankful for it						
+2021-05-27 11:00:22	student014	student	28	And I am curious to see what sort of reserach they do on the papers: I'll follow the professor who I first contacted for this opportunity ;)	And I am curious to see what sort of research they do on the papers: I'll follow the professor who I first contacted for this opportunity ;)		3a	topic development			
+2021-05-27 11:00:44	teacher008	teacher	29	Yes, it's been a pleasure on my part, and of course, we are very grateful to our volunteer students like yourself	Yes, it's been a pleasure on my part, and of course, we are very grateful to our volunteer students like yourself	27.0					
+2021-05-27 11:02:12	student014	student	30	It's been a pleasure for me too!	It's been a pleasure for me too!						
+2021-05-27 11:02:47	teacher008	teacher	31	I think they're taking the research in more than one direction at the moment. Yes, I'm sure you can contact <RESEARCHER> for more information if you're curious, he did mention it	I think they're taking the research in more than one direction at the moment. Yes, I'm sure you can contact <RESEARCHER> for more information if you're curious, he did mention it	28.0					
+2021-05-27 11:04:47	student014	student	32	Cool, thank you :) It would be cool if I eventually end up working also on the data I contributed to generate...	Cool, thank you :) It would be cool if I eventually end up also working on the data I contributed to generate...						
+2021-05-27 11:04:56	teacher008	teacher	33	Ok, so the question is, what would you like to focus on in our remaining time? I've been planning to look at some more speaking questions from C2 proficiency today	Ok, so the question is, what would you like to focus on in our remaining time? I've been planning to look at some more speaking questions from C2 proficiency today		4.0	topic opening			
+2021-05-27 11:05:05	student014	student	34	(If they release it openly)	(If they release it openly)	32.0					
+2021-05-27 11:05:22	student014	student	35	Okay, let's look at speaking questions!	Okay, let's look at speaking questions!	33.0					
+2021-05-27 11:06:04	teacher008	teacher	36	Yes, <RESEARCHER> would be a better person to speak to about this than myself!	Yes, <RESEARCHER> would be a better person to speak to about this than myself!	34.0					
+2021-05-27 11:06:55	teacher008	teacher	37	It would be cool if I eventually end up working also on the data I contributed to generate	It would be cool if I eventually end up working also on the data I contributed to generate		5.0	eliciting,repair	grammatical resource	chat	
+2021-05-27 11:07:23	teacher008	teacher	38	I feel that 'also' is a bit out of place here. What would be a better place for it?	I feel that 'also' is a bit out of place here. What would be a better place for it?						
+2021-05-27 11:07:24	student014	student	39	Oh, the also is in the wrong position there, right?	Oh, 'also' is in the wrong position there, right?	37.0					
+2021-05-27 11:07:28	student014	student	40	Yep	Yep	38.0					
+2021-05-27 11:07:38	teacher008	teacher	41	haha, yes! You see it yourself, don't you?	haha, yes! You see it yourself, don't you?	39.0					
+2021-05-27 11:08:04	student014	student	42	I could either remove it, or...maybe...I could put it before 'working': end up also working ...	I could either remove it, or...maybe...I could put it before 'working': end up also working ...						
+2021-05-27 11:08:32	teacher008	teacher	43	Yes! I like it before 'working'.	Yes! I like it before 'working'.						
+2021-05-27 11:08:40	student014	student	44	Yes and no...but now, everytime I write it an alarm bel rings in my head so I try to pay more attention (not in that case, apparently)	Yes and no...but now, everytime I write it an alarm bell rings in my head so I try to pay more attention (not in that case, apparently)	41.0					
+2021-05-27 11:08:45	teacher008	teacher	45	also working' - like other researchers	also working' - like other researchers			scaffolding	grammatical resource		
+2021-05-27 11:09:35	teacher008	teacher	46	It's German interference, isn't it? I can just hear 'arbeiten auch' in my mind	It's German interference, isn't it? I can just hear 'arbeiten auch' in my mind		5a	non-English	code switching,grammatical resource		
+2021-05-27 11:11:02	student014	student	47	Yes...moreover German has an interjection which is written 'also', has a slightly different sound...	Yes...moreover German has an interjection which is written 'also', has a slightly different sound...			non-English	code switching,grammatical resource		
+2021-05-27 11:11:25	student014	student	48	The way we use 'anche' in Italian, which is the closes word to 'also' we have, is also different...	The way we use 'anche' in Italian, which is the closest word to 'also' we have, is also different...			non-English	code switching,grammatical resource		
+2021-05-27 11:11:25	teacher008	teacher	49	Aah, yes, I remember! indeed	Aah, yes, I remember! indeed	47.0					
+2021-05-27 11:11:31	student014	student	50	So it is really tricky for me ;)	So it is really tricky for me ;)						
+2021-05-27 11:11:42	teacher008	teacher	51	I can imagine!	I can imagine!						
+2021-05-27 11:11:45	student014	student	52	*the closest	*the closest			repair	writing		
+2021-05-27 11:12:06	student014	student	53	Anyway, practise makes perfect :) As you see if I think about it I am starting to correct it!	Anyway, practise makes perfect :) As you see if I think about it I am starting to correct it!						
+2021-05-27 11:12:52	teacher008	teacher	54	Ok, C2 questions! I think I mentioned last time that there are several parts to the speaking test, and in the first part the questions are focused on you rather than abstract	Ok, C2 questions! I think I mentioned last time that there are several parts to the speaking test, and in the first part the questions are focused on you rather than abstract		6.0	exercise	speaking		
+2021-05-27 11:13:34	teacher008	teacher	55	I'm warning you, some of them are a bit weird, you'll have to just roll with them and show off your English!	I'm warning you, some of them are a bit weird, you'll have to just roll with them and show off your English!						
+2021-05-27 11:14:03	student014	student	56	Okay, that's fine!	Okay, that's fine!						
+2021-05-27 11:14:26	teacher008	teacher	57	You'll see what I mean (I'll start with not so weird ones though)	You'll see what I mean (I'll start with not so weird ones though)						
+2021-05-27 11:15:04	teacher008	teacher	58	The test always begins with, please tell us your name, are you a student or do you work and then maybe 'where are you from', no need to answer those now	The test always begins with, please tell us your name, are you a student or do you work and then maybe 'where are you from', no need to answer those now			scaffolding	speaking		
+2021-05-27 11:15:42	teacher008	teacher	59	Next question: You said you are from Friulli (did I get that right??) Is that an interesting place to live?	Next question: You said you are from Friulli (did I get that right??) Is that an interesting place to live?		6a	exercise,enquiry	speaking,writing		
+2021-05-27 11:15:49	student014	student	60	Those are the easy ones..	Those are the easy ones..	58.0					
+2021-05-27 11:16:02	student014	student	61	Yes, I am originally from Friuli (just one 'l').	Yes, I am originally from Friuli (just one 'l').	59.0		repair	writing		
+2021-05-27 11:16:14	teacher008	teacher	62	yep, they give the examiner a chance to fill in the papers :)	yep, they give the examiner a chance to fill in the papers :)	60.0					
+2021-05-27 11:16:21	teacher008	teacher	63	Sorry! Friuli	Sorry! Friuli	61.0					
+2021-05-27 11:17:02	student014	student	64	It depends on what you mean by 'interesting'. It is a small, rural region which was among the poorest in Italy before the so called Italian economic miracle of the sixties...	It depends on what you mean by 'interesting'. It is a small, rural region which was among the poorest in Italy before the so called Italian economic miracle of the sixties...						
+2021-05-27 11:18:16	teacher008	teacher	65	Ok, lovely! Feel free to add another sentence or two	Ok, lovely! Feel free to add another sentence or two						
+2021-05-27 11:18:20	student014	student	66	I find it interesting because you can experience nature in all its forms: from mountains, to the sea side...and, as any place in Italy, it has many places that are interesting as far as history is concerned. For instance Trieste, with castle Miramare, or Palmanova: a small city which still has the original footprint from the middle ages	I find it interesting because you can experience nature in all its forms: from mountains to the seaside...and, as any place in Italy, it has many places that are interesting as far as history is concerned. For instance Trieste, with castle Miramare, or Palmanova: a small city which still has the original footprint from the Middle Ages						
+2021-05-27 11:18:43	student014	student	67	and looks like a star, surrounded by its wals, when you look at it from a map.	and looks like a star, surrounded by its walls, when you look at its map.						
+2021-05-27 11:19:23	student014	student	68	In this sense it is quite interesting :) But I would use the word quiet to describe it: if you look for a thrilling night life you should look somewhere else.	In this sense it is quite interesting :) But I would use the word quiet to describe it: if you look for a thrilling night life you should look somewhere else.						
+2021-05-27 11:20:10	teacher008	teacher	69	Ok, thanks! Great sophisticated grammar, I like it! It would be helpful to use some synonyms to 'interesting' though, such as...	Ok, thanks! Great sophisticated grammar, I like it! It would be helpful to use some synonyms to 'interesting' though, such as...		6b	scaffolding,eliciting	speaking,lexical resource		
+2021-05-27 11:20:13	student014	student	70	(maybe when you see an aerial view would be a better way to say 'look from a map')	(maybe when you see an aerial view would be a better way to say 'look from a map')		6c	repair	lexical resource		
+2021-05-27 11:20:16	teacher008	teacher	71	what comes to your mind?	what comes to your mind?	69.0					
+2021-05-27 11:20:47	teacher008	teacher	72	Yes, sure, because you mean 'look at its map', but an aerial view is a better expression!	Yes, sure, because you mean 'look at its map', but an aerial view is a better expression!	70.0		repair	lexical resource		
+2021-05-27 11:21:04	student014	student	73	Oh..I didn't think about synonyms...this is a trick I should remember...	Oh..I didn't think about synonyms...this is a trick I should remember...	71.0					
+2021-05-27 11:21:31	student014	student	74	To be honest I don't have many synonyms...maybe stimulating, in certain contexts?	To be honest I don't have many synonyms...maybe stimulating, in certain contexts?						
+2021-05-27 11:22:06	student014	student	75	noteworthy	noteworthy						
+2021-05-27 11:22:09	teacher008	teacher	76	Yes, you would probably use 'interesting' in real life, and so would a native speaker, but you aren't scoring any points with it in the test as you can imagine!	Yes, you would probably use 'interesting' in real life, and so would a native speaker, but you aren't scoring any points with it in the test as you can imagine!			scaffolding	speaking		
+2021-05-27 11:23:00	student014	student	77	Okay! But I should probably exercise with synonyms because it isn't that easy (even when looking at italian synonyms for help ;) )	Okay! But I should probably exercise with synonyms because it isn't that easy (even when looking at Italian synonyms for help ;) )						
+2021-05-27 11:23:02	teacher008	teacher	78	I find it interesting... could be replaced with something like 'it appeals to me'	I find it interesting... could be replaced with something like 'it appeals to me'			scaffolding	lexical resource		
+2021-05-27 11:23:53	teacher008	teacher	79	noteworthy is a good one! and then all kind of descriptive adjectives, like 'fascinating' etc.	noteworthy is a good one! and then all kind of descriptive adjectives, like 'fascinating' etc.	75.0		scaffolding	lexical resource		
+2021-05-27 11:24:40	teacher008	teacher	80	There is a lot unpack / explore in terms of history etc.	There is a lot unpack / explore in terms of history etc.			scaffolding	lexical resource		
+2021-05-27 11:25:05	student014	student	81	Indeed...I should exercise by paraphrasing questions	Indeed...I should exercise by paraphrasing questions						
+2021-05-27 11:25:11	teacher008	teacher	82	Ok, let's try another one!	Ok, let's try another one!		6d	exercise	speaking		
+2021-05-27 11:25:11	student014	student	83	into ones that use more refined terms.	into ones that use more refined terms.	81.0					
+2021-05-27 11:25:28	teacher008	teacher	84	exactly, with that in mind	exactly, with that in mind						
+2021-05-27 11:25:36	teacher008	teacher	85	How good are you at organising your time?	How good are you at organising your time?	82.0					
+2021-05-27 11:27:22	student014	student	86	Scheduling my day is a fundamental task for me: I have a busy life, with two small children, and I can't expect things to work out without any planning.	Scheduling my day is a fundamental task for me: I have a busy life, with two small children, and I can't expect things to work out without any planning.						
+2021-05-27 11:28:18	teacher008	teacher	87	Excellent! great paraphrasing	Excellent! great paraphrasing						
+2021-05-27 11:28:21	student014	student	88	Therefore I'd answer saying I am good at planning my day, even when this means handling unexpected events.	Therefore I'd answer saying I am good at planning my day, even when this means handling unexpected events.						
+2021-05-27 11:28:33	student014	student	89	Which are common among parents of small children.	Which are common among parents of small children.						
+2021-05-27 11:30:03	teacher008	teacher	90	Lovely! A good expression: firefighting (especially in the work context)	Lovely! A good expression: firefighting (especially in the work context)		6e	scaffolding	lexical resource		
+2021-05-27 11:30:24	teacher008	teacher	91	dealing with problems that pop up unexpectedly	dealing with problems that pop up unexpectedly			scaffolding	lexical resource,meaning		
+2021-05-27 11:30:46	teacher008	teacher	92	Too much time is spent firefighting rather than moving the business forward.	Too much time is spent firefighting rather than moving the business forward.			scaffolding	lexical resource	dictionary	
+2021-05-27 11:30:54	teacher008	teacher	93	an example from the dictionary	an example from the dictionary						
+2021-05-27 11:31:14	student014	student	94	Oh, that's a lovely expression!	Oh, that's a lovely expression!						
+2021-05-27 11:31:27	student014	student	95	And I am not sure I've ever encountered it...I'll write it down :)	And I am not sure I've ever encountered it...I'll write it down :)						
+2021-05-27 11:32:07	teacher008	teacher	96	Yes, very useful! My husband says it all the time, when he's annoyed that he hasn't made any progress because he's been firefighting the minor crises	Yes, very useful! My husband says it all the time, when he's annoyed that he hasn't made any progress because he's been firefighting the minor crises			scaffolding	lexical resource		
+2021-05-27 11:32:23	teacher008	teacher	97	Ok, the next one!	Ok, the next one!		6f	exercise	speaking		
+2021-05-27 11:33:03	teacher008	teacher	98	What would you dream job be? (they are eliciting conditionals and the grammar of speculations like could / might  here!)	What would you dream job be? (they are eliciting conditionals and the grammar of speculations like could / might  here!)						
+2021-05-27 11:34:37	student014	student	99	If I had the possibility to go back in time, I would try to focus my efforts into becoming a pilot with the final objective of becoming an astronaut.	If I had the possibility to go back in time, I would try to focus my efforts into becoming a pilot with the final objective of becoming an astronaut.						
+2021-05-27 11:35:22	student014	student	100	I might have actually attempted to follow this passion of mine if it was not for my parents who are scared of flying...	I might have actually attempted to follow this passion of mine if it had not been for my parents who are scared of flying...						
+2021-05-27 11:36:00	student014	student	101	and made it very clear that, if I was to flight, they would be in a constant state of alert and fear.	and made it very clear that, if I was to fly, they would be in a constant state of alert and fear.						
+2021-05-27 11:36:21	student014	student	102	(okay, I exaggerated a bit, but it was just to show off some language)	(okay, I exaggerated a bit, but it was just to show off some language)						
+2021-05-27 11:36:32	teacher008	teacher	103	Excellent!	Excellent!						
+2021-05-27 11:37:29	teacher008	teacher	104	Just one objection. Third conditional: I might have attempted, it it ___ ___ ___ for my parents (because it's in past)	Just one objection. Third conditional: I might have attempted, it it ___ ___ ___ for my parents (because it's in past)		6g	eliciting,repair	grammatical resource		
+2021-05-27 11:37:36	teacher008	teacher	105	*in the past	*in the past			repair	writing		
+2021-05-27 11:38:35	student014	student	106	if it were not for my parents?	if it were not for my parents?						
+2021-05-27 11:38:43	teacher008	teacher	107	if it had not been!	if it had not been!			repair	grammatical resource		
+2021-05-27 11:39:15	teacher008	teacher	108	The pure third conditional is 'past perfect, if would / might / could have V3'	The pure third conditional is 'past perfect, if would / might / could have V3'			scaffolding	grammatical resource		
+2021-05-27 11:39:44	student014	student	109	okay..I guess I'll have to check it again..	okay..I guess I'll have to check it again..						
+2021-05-27 11:39:59	teacher008	teacher	110	I'll make a note, if we've got some time left, we can do a bit of third conditional practice in June	I'll make a note, if we've got some time left, we can do a bit of third conditional practice in June						
+2021-05-27 11:40:18	teacher008	teacher	111	But otherwise great!	But otherwise great!						
+2021-05-27 11:40:35	teacher008	teacher	112	Ok, are you ready for the weird one?	Ok, are you ready for the weird one?		6h	exercise	speaking		
+2021-05-27 11:40:43	teacher008	teacher	113	How important is the internet for you?	How important is the internet for you?						
+2021-05-27 11:42:24	student014	student	114	I must say I was expecting a weirder question...	I must say I was expecting a weirder question...						
+2021-05-27 11:42:48	teacher008	teacher	115	Really? I've got to up my game :) I thought this was weird!	Really? I've got to up my game :) I thought this was weird!						
+2021-05-27 11:43:24	student014	student	116	The internet is fundamental for me: sometimes I am scared when thinking about how much of my activities rely on it: from working, to listening to music and shopping...	The internet is fundamental for me: sometimes I am scared when thinking about how much of my activities rely on it: from working, to listening to music and shopping...						
+2021-05-27 11:43:33	teacher008	teacher	117	The best answer to this would be, 'Excuse me, inte... what?'	The best answer to this would be, 'Excuse me, inte... what?'	115.0					
+2021-05-27 11:43:36	teacher008	teacher	118	Sorry, go on!	Sorry, go on!	116.0					
+2021-05-27 11:44:44	student014	student	119	I can hardly move a stone without connecting to some server to check how many steps I've taken today or using a neural network to try an identify the species of the insect that is strolling through my porch...	I can hardly move a stone without connecting to some server to check how many steps I've taken today or using a neural network to try and identify the species of the insect that is strolling across my porch...						
+2021-05-27 11:44:59	student014	student	120	Haha...Agreed! I'll write down that answer...	Haha...Agreed! I'll write down that answer...	117.0					
+2021-05-27 11:45:05	student014	student	121	Maybe 20 years ago...	Maybe 20 years ago...						
+2021-05-27 11:45:41	teacher008	teacher	122	No, don't write it down! :))	No, don't write it down! :))	120.0					
+2021-05-27 11:46:07	student014	student	123	Nowadays even driving a car often relies on an internet connection, if not for the driving itself, at least for the directions	Nowadays even driving a car often relies on an internet connection, if not for the driving itself, at least for the directions	119.0					
+2021-05-27 11:46:23	teacher008	teacher	124	Love the vocabulary! brilliant!	Love the vocabulary! brilliant!						
+2021-05-27 11:46:59	teacher008	teacher	125	And you managed to avoid using the word 'important'))	And you managed to avoid using the word 'important'))						
+2021-05-27 11:47:19	student014	student	126	I was joking ;) Thank you! I must say that I should exercise a bit, as currently my words are stirred more by the will to produce outstanding English rather than saying what I mean to say haha	I was joking ;) Thank you! I must say that I should exercise a bit, as currently my words are stirred more by the will to produce outstanding English rather than saying what I mean to say haha	122.0					
+2021-05-27 11:47:50	student014	student	127	But, as you said, the examiners don't know anything about me, they are there only to evaluate my English	But, as you said, the examiners don't know anything about me, they are there only to evaluate my English						
+2021-05-27 11:48:09	teacher008	teacher	128	Exactly! I wouldn't worry about truthfulness here!	Exactly! I wouldn't worry about truthfulness here!						
+2021-05-27 11:48:41	student014	student	129	Good :) I guess I have to go now, right? What time in 2 weeks?	Good :) I guess I have to go now, right? What time in 2 weeks?		7.0	closing			
+2021-05-27 11:48:49	student014	student	130	I should be available again on Tuesday	I should be available again on Tuesday						
+2021-05-27 11:48:56	teacher008	teacher	131	Will Tuesday suit you?	Will Tuesday suit you?						
+2021-05-27 11:49:18	teacher008	teacher	132	Tuesday June 8?	Tuesday June 8?						
+2021-05-27 11:49:21	student014	student	133	Yes	Yes						
+2021-05-27 11:49:26	student014	student	134	At 1 pm?	At 1 pm?						
+2021-05-27 11:49:27	teacher008	teacher	135	Lovely, at 1 pm?	Lovely, at 1 pm?						
+2021-05-27 11:49:41	teacher008	teacher	136	Yes, absolutely, because I won't have to reload the chatroom afterwards	Yes, absolutely, because I won't have to reload the chatroom afterwards						
+2021-05-27 11:49:45	student014	student	137	Perfect! See you then...enjoy the vacation!	Perfect! See you then...enjoy the vacation!						
+2021-05-27 11:49:53	teacher008	teacher	138	Great, I'll speak to you then! Thank you :)	Great, I'll speak to you then! Thank you :)						
+2021-05-27 11:49:56	student014	student	139	And thank you!! Bye!!	And thank you!! Bye!!						
+2021-05-27 11:50:05	teacher008	teacher	140	Bye!	Bye!						C2

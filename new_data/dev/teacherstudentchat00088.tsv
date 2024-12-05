@@ -1,0 +1,149 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2020-07-21 07:02:02	teacher008	teacher	1	Hi <STUDENT>!	Hi <STUDENT>!		1.0	opening			
+2020-07-21 07:02:10	student009	student	2	hello	hello						
+2020-07-21 07:02:23	teacher008	teacher	3	Sorry to hear you want to sleep!	Sorry to hear you want to sleep!						
+2020-07-21 07:02:36	student009	student	4	:)	:)						
+2020-07-21 07:03:02	teacher008	teacher	5	How's life? Are you still in Vinnytsa?	How's life? Are you still in Vinnytsa?		2.0	topic opening			
+2020-07-21 07:03:15	student009	student	6	everything is okay	everything is okay						
+2020-07-21 07:03:26	student009	student	7	I am in Kovel now	I am in Kovel now	5.0					
+2020-07-21 07:03:50	teacher008	teacher	8	Nice! Visiting family again?	Nice! Visiting family again?		2a	topic development			
+2020-07-21 07:04:25	student009	student	9	no, just visiting friends	no, just visiting friends						
+2020-07-21 07:05:12	teacher008	teacher	10	Sounds good. I've never been to Kovel - is it nice?	Sounds good. I've never been to Kovel - is it nice?		2b	topic development			
+2020-07-21 07:05:36	student009	student	11	Yes, but is little	Yes, but it's little						
+2020-07-21 07:06:15	teacher008	teacher	12	Ok	Ok						
+2020-07-21 07:06:23	student009	student	13	the highest house here is with 9 levels	the tallest building here is 9 floors						
+2020-07-21 07:07:03	teacher008	teacher	14	ah, the tallest building	ah, the tallest building			repair	lexical resource		
+2020-07-21 07:07:17	student009	student	15	and there are not a lot good shops to by clothes	and there aren't many good shops to buy clothes						
+2020-07-21 07:07:44	teacher008	teacher	16	There are no tall buildings in my town at all! Maybe three floors maximum	There are no tall buildings in my town at all! Maybe three floors maximum		2c	topic development			
+2020-07-21 07:07:58	student009	student	17	wow	wow						
+2020-07-21 07:08:37	student009	student	18	I am living on the 20th floor (in Kyiv)	I am living on the 20th floor (in Kyiv)						
+2020-07-21 07:08:54	teacher008	teacher	19	Oh wow!	Oh wow!						
+2020-07-21 07:09:35	teacher008	teacher	20	But most of England is very low rise, and most houses are two floors, including ours.	But most of England is very low rise, and most houses are two floors, including ours.			scaffolding	world knowledge		
+2020-07-21 07:11:22	teacher008	teacher	21	In a house, both floors belong to the same owner, so you have a downstairs (usually living room, dining room and kitchen) and an upstairs area (usually bedrooms)	In a house, both floors belong to the same owner, so you have a downstairs (usually living room, dining room and kitchen) and an upstairs area (usually bedrooms)			scaffolding	world knowledge		
+2020-07-21 07:12:09	student009	student	22	Yeah, I understand	Yeah, I understand						
+2020-07-21 07:12:28	teacher008	teacher	23	Some people live in flats, especially in big cities, and flats are usually on one level. Which is probably why they are called 'flats', now that I'm thinking about it	Some people live in flats, especially in big cities, and flats are usually on one level. Which is probably why they are called 'flats', now that I'm thinking about it			scaffolding	lexical resource,world knowledge		
+2020-07-21 07:12:51	student009	student	24	I think it is better to live in a house	I think it is better to live in a house		2d	topic development			
+2020-07-21 07:13:07	teacher008	teacher	25	And what do you call a house that has only got the ground floor?	And what do you call a house that has only got the ground floor?		2e	eliciting	lexical resource		
+2020-07-21 07:13:57	student009	student	26	what do you mean?	what do you mean?						
+2020-07-21 07:14:39	teacher008	teacher	27	Do you know the word for a house that hasn't got an upstairs?	Do you know the word for a house that hasn't got an upstairs?			eliciting	lexical resource		
+2020-07-21 07:14:48	student009	student	28	no	no						
+2020-07-21 07:15:04	teacher008	teacher	29	a bungalow	a bungalow			scaffolding	lexical resource		
+2020-07-21 07:15:10	student009	student	30	oh	oh						
+2020-07-21 07:15:16	teacher008	teacher	31	the stress is on the first syllable	the stress is on the first syllable			scaffolding	lexical resource,speaking		
+2020-07-21 07:15:41	student009	student	32	I didn't now it, but I know it is the same on Russian	I didn't know it, but I know it is the same in Russian						
+2020-07-21 07:16:06	teacher008	teacher	33	Old people sometimes move to bungalows because of mobility problems. But it's not just for older people, obviously	Old people sometimes move to bungalows because of mobility problems. But it's not just for older people, obviously			scaffolding	lexical resource,world knowledge		
+2020-07-21 07:16:16	teacher008	teacher	34	it's the same ___ Russian	it's the same ___ Russian	32.0	2f	eliciting,repair	lexical resource		
+2020-07-21 07:16:25	student009	student	35	in	in						
+2020-07-21 07:16:28	teacher008	teacher	36	yes!	yes!						
+2020-07-21 07:17:04	teacher008	teacher	37	I've got a nice mystery picture for you today, I couldn't guess what it was! I'll send you the link on Skype	I've got a nice mystery picture for you today, I couldn't guess what it was! I'll send you the link on Skype		3.0	exercise	grammatical resource	website	
+2020-07-21 07:17:27	teacher008	teacher	38	What do you think it could be?	What do you think it could be?						
+2020-07-21 07:18:59	student009	student	39	it might be a tree?	it might be a tree?						
+2020-07-21 07:19:21	teacher008	teacher	40	Good idea, but no!	Good idea, but no!						
+2020-07-21 07:19:28	teacher008	teacher	41	and a good modal verb :)	and a good modal verb :)						
+2020-07-21 07:20:11	student009	student	42	it might be an animal?	it might be an animal?						
+2020-07-21 07:20:30	teacher008	teacher	43	yes, closer!	yes, closer!						
+2020-07-21 07:20:37	teacher008	teacher	44	What kind of animal?	What kind of animal?						
+2020-07-21 07:20:42	student009	student	45	a fish?	a fish?						
+2020-07-21 07:20:50	teacher008	teacher	46	nope!	nope!						
+2020-07-21 07:20:51	student009	student	47	a bug?	a bug?						
+2020-07-21 07:21:09	teacher008	teacher	48	warmer, warmer	warmer, warmer						
+2020-07-21 07:21:33	student009	student	49	a butterfly?	a butterfly?						
+2020-07-21 07:21:44	teacher008	teacher	50	yes, you got it!! well done!	yes, you got it!! well done!						
+2020-07-21 07:21:50	student009	student	51	yay	yay						
+2020-07-21 07:22:26	teacher008	teacher	52	the image is ____ (made much to look much bigger, so that you can see it in detail)	the image is ____ (made much to look much bigger, so that you can see it in detail)		3a	eliciting,revision	lexical resource		
+2020-07-21 07:23:02	teacher008	teacher	53	sorry, 'made to look much bigger'	sorry, 'made to look much bigger'			repair	writing		
+2020-07-21 07:23:31	teacher008	teacher	54	do you remember the word? m------ed	do you remember the word? m------ed			eliciting,revision	lexical resource		
+2020-07-21 07:24:08	student009	student	55	mo------ed	mo------ed						
+2020-07-21 07:24:22	teacher008	teacher	56	no! magni----	no! magni----			eliciting,revision	lexical resource		
+2020-07-21 07:24:34	student009	student	57	magnified!	magnified!						
+2020-07-21 07:25:09	teacher008	teacher	58	yes! and what do we call a device that allows us to see objects as if they were bigger?	yes! and what do we call a device that allows us to see objects as if they were bigger?		3b	eliciting,revision	lexical resource		
+2020-07-21 07:25:45	student009	student	59	magnifier	magnifier						
+2020-07-21 07:26:33	teacher008	teacher	60	yes, or magnifying glass	yes, or magnifying glass			scaffolding	lexical resource		
+2020-07-21 07:27:36	teacher008	teacher	61	Ok, let's quickly go through our modals of deduction. If you think it's possible that something happened, you can say 'It ___ ____ happened'	Ok, let's quickly go through our modals of deduction. If you think it's possible that something happened, you can say 'It ___ ____ happened'		4.0	eliciting,revision	grammatical resource		
+2020-07-21 07:27:55	student009	student	62	might have	might have						
+2020-07-21 07:27:59	teacher008	teacher	63	yes!	yes!						
+2020-07-21 07:28:10	teacher008	teacher	64	If you are sure that this is what happened?	If you are sure that this is what happened?			eliciting,revision	grammatical resource		
+2020-07-21 07:28:19	student009	student	65	must have	must have						
+2020-07-21 07:28:32	teacher008	teacher	66	yes, and if you are sure it didn't happen?	yes, and if you are sure it didn't happen?			eliciting,revision	grammatical resource		
+2020-07-21 07:28:47	student009	student	67	can't have	can't have						
+2020-07-21 07:28:53	teacher008	teacher	68	yes, correct!	yes, correct!						
+2020-07-21 07:29:42	teacher008	teacher	69	Ok, I just got back from a week of holiday, could you use modals of deduction to make sentences about what I did / where I went etc.? Just to practise those	Ok, I just got back from a week of holiday, could you use modals of deduction to make sentences about what I did / where I went etc.? Just to practise those		4a	exercise	grammatical resource		
+2020-07-21 07:30:27	student009	student	70	what do you mean?	what do you mean?			enquiry			
+2020-07-21 07:31:35	teacher008	teacher	71	for example, you could say, <TEACHER>, you can't have been abroad because of the quarantine.	for example, you could say, <TEACHER>, you can't have been abroad because of the quarantine.			clarification,scaffolding	grammatical resource		
+2020-07-21 07:32:07	teacher008	teacher	72	You could have gone to the countryside, or something like that	You could have gone to the countryside, or something like that			scaffolding	grammatical resource		
+2020-07-21 07:34:31	teacher008	teacher	73	Are you still feeling confused?	Are you still feeling confused?						
+2020-07-21 07:34:43	student009	student	74	yes	yes						
+2020-07-21 07:35:27	student009	student	75	what did you mean by what you did/where you went?	what did you mean by what you did/where you went?		4b	enquiry			
+2020-07-21 07:36:14	teacher008	teacher	76	Well, you don't know what I did and where I went on holiday, right? But you might have some ideas, and that's where the modals of deduction come in.	Well, you don't know what I did and where I went on holiday, right? But you might have some ideas, and that's where the modals of deduction come in.			clarification			
+2020-07-21 07:36:30	student009	student	77	like You must have been at home or You can't have been to Italy	like You must have been at home or You can't have been to Italy						
+2020-07-21 07:36:37	teacher008	teacher	78	For example, I'll try to make sentences about your trip to Vinnytsa	For example, I'll try to make sentences about your trip to Vinnytsa		4c	scaffolding	grammatical resource		
+2020-07-21 07:36:41	teacher008	teacher	79	Yes, all good	Yes, all good	77.0					
+2020-07-21 07:37:10	teacher008	teacher	80	You must have enjoyed Vinnytsa because it's quieter than Kyiv	You must have enjoyed Vinnytsa because it's quieter than Kyiv	78.0					
+2020-07-21 07:37:30	teacher008	teacher	81	You might have been a bit bored because there might have been fewer things to do than at home	You might have been a bit bored because there might have been fewer things to do than at home						
+2020-07-21 07:37:53	teacher008	teacher	82	You can't have missed the famous Vinnytsa fountains	You can't have missed the famous Vinnytsa fountains						
+2020-07-21 07:37:57	teacher008	teacher	83	Things like this	Things like this						
+2020-07-21 07:39:24	student009	student	84	okay	okay						
+2020-07-21 07:40:58	student009	student	85	do you want me to tell you a funny story?	do you want me to tell you a funny story?		5.0	topic opening			
+2020-07-21 07:41:06	teacher008	teacher	86	Please!	Please!						
+2020-07-21 07:41:35	student009	student	87	do you know smeshariki?	do you know Smeshariki?						
+2020-07-21 07:41:45	teacher008	teacher	88	The cartoon?	The cartoon?						
+2020-07-21 07:41:50	student009	student	89	yes	yes						
+2020-07-21 07:41:55	teacher008	teacher	90	I do	I do	87.0					
+2020-07-21 07:42:23	student009	student	91	so yesterday I was on a beach	so yesterday I was on a beach						
+2020-07-21 07:42:32	teacher008	teacher	92	Ok	Ok						
+2020-07-21 07:43:01	student009	student	93	and my face was very red yesterday	and my face was very red yesterday						
+2020-07-21 07:43:12	teacher008	teacher	94	Did you catch the sun?	Did you catch the sun?						
+2020-07-21 07:43:21	student009	student	95	yes	yes						
+2020-07-21 07:43:32	teacher008	teacher	96	Oh no!	Oh no!						
+2020-07-21 07:44:32	student009	student	97	and my friend made me funny 'things' on my head	and my friend made funny 'things' on my head						
+2020-07-21 07:45:24	student009	student	98	so the looked like a needles so I thought I looked like Yozhik from smeshariki!	so it looked like needles, so I thought I looked like Yozhik from Smeshariki!						
+2020-07-21 07:46:00	student009	student	99	( I will have curly hair after it)	(I will have curly hair after it)						
+2020-07-21 07:46:04	teacher008	teacher	100	Haha, oh no!	Haha, oh no!						
+2020-07-21 07:46:29	teacher008	teacher	101	Oh I see, did your friend curl your hair?	Oh I see, did your friend curl your hair?	99.0					
+2020-07-21 07:46:35	student009	student	102	If you want to, I can send you how do I look like now	If you want to, I can send you a picture of what I look like now		5a	topic development			
+2020-07-21 07:46:49	teacher008	teacher	103	Ok, on Skype, right	Ok, on Skype, right						
+2020-07-21 07:47:00	student009	student	104	it is now easy to explain	it is not easy to explain						
+2020-07-21 07:48:42	teacher008	teacher	105	Oh, they are almost like dreadlocks, very cool!	Oh, they are almost like dreadlocks, very cool!						
+2020-07-21 07:49:30	student009	student	106	after that they must be very curly	after that it must be very curly						
+2020-07-21 07:49:56	teacher008	teacher	107	after that ___ must be very curly	after that ___ must be very curly		5b	eliciting,repair			
+2020-07-21 07:50:02	teacher008	teacher	108	(hair)	(hair)						
+2020-07-21 07:50:07	student009	student	109	it?	it?						
+2020-07-21 07:50:17	teacher008	teacher	110	Yes! Like in Ukrainian, right?	Yes! Like in Ukrainian, right?			scaffolding	grammatical resource		
+2020-07-21 07:50:24	teacher008	teacher	111	but not like in Russian	but not like in Russian			scaffolding	grammatical resource		
+2020-07-21 07:50:33	student009	student	112	yeah	yeah						
+2020-07-21 07:52:30	teacher008	teacher	113	Ok, <STUDENT>, something I wanted to ask you. What would you like to learn about in the rest of our classes? Some topics that you find interesting or anything? Because, unlike at school, we don't have to follow the book	Ok, <STUDENT>, something I wanted to ask you. What would you like to learn about in the rest of our classes? Some topics that you find interesting or anything? Because, unlike at school, we don't have to follow the book		6.0	topic opening			
+2020-07-21 07:53:06	student009	student	114	some topics I find interesting	some topics I find interesting						
+2020-07-21 07:53:33	student009	student	115	everything I wrote in the form	everything I wrote in the form						
+2020-07-21 07:54:11	teacher008	teacher	116	What topics for example? I remember you are into chess and coding, is that right?	What topics for example? I remember you are into chess and coding, is that right?						
+2020-07-21 07:54:49	student009	student	117	yes	yes						
+2020-07-21 07:55:16	student009	student	118	and math	and math						
+2020-07-21 07:55:25	teacher008	teacher	119	Are you a competitive chess player or do you play for fun?	Are you a competitive chess player or do you play for fun?		6a	topic development			
+2020-07-21 07:55:28	teacher008	teacher	120	And math, yes!	And math, yes!	118.0					
+2020-07-21 07:55:38	student009	student	121	for fun	for fun						
+2020-07-21 07:56:03	teacher008	teacher	122	cool! do you enjoy any other board games?	cool! do you enjoy any other board games?						
+2020-07-21 07:56:14	student009	student	123	monopoly	Monopoly						
+2020-07-21 07:56:47	teacher008	teacher	124	Ok, and can you tell me a bit about your coding hobby?	Ok, and can you tell me a bit about your coding hobby?		6b	topic development			
+2020-07-21 07:57:16	student009	student	125	I don't really what to say	I don't really know what to say						
+2020-07-21 07:57:32	student009	student	126	like when is it or where?	like when is it or where?						
+2020-07-21 07:58:16	teacher008	teacher	127	Well, what language you use, what programmes you write	Well, what language you use, what programmes you write						
+2020-07-21 07:58:32	student009	student	128	we use C++	we use C++						
+2020-07-21 07:58:49	student009	student	129	on usual lessons we used Unity	in usual lessons we used Unity						
+2020-07-21 07:59:09	teacher008	teacher	130	Did you learn any of these at school?	Did you learn any of these at school?		6c	topic development			
+2020-07-21 07:59:45	student009	student	131	but on quarantine we just used a site to train, because not all the computers can have Unity	but during the quarantine we just used a website to train, because not all the computers can have Unity	129.0					
+2020-07-21 08:00:01	student009	student	132	in school I learn Python	at school I learn Python	130.0					
+2020-07-21 08:00:24	student009	student	133	it is absolutely different	it is absolutely different						
+2020-07-21 08:00:24	teacher008	teacher	134	Oh wow, I'm impressed that Python is now taught at schools!	Oh wow, I'm impressed that Python is now taught at schools!		6d	topic development			
+2020-07-21 08:00:48	student009	student	135	it is only in our school I think:(	it is only in our school I think:(						
+2020-07-21 08:01:00	teacher008	teacher	136	Ah, I see! Makes sense	Ah, I see! Makes sense						
+2020-07-21 08:01:06	student009	student	137	and you must be in a C class	and you must be in a C class						
+2020-07-21 08:01:15	teacher008	teacher	138	What's a C class?	What's a C class?						
+2020-07-21 08:01:20	student009	student	139	and special ITC group	and special ITC group						
+2020-07-21 08:01:29	student009	student	140	ABCD classes	ABCD classes	138.0					
+2020-07-21 08:01:48	student009	student	141	like 6-B	like 6-B						
+2020-07-21 08:01:54	teacher008	teacher	142	Ah, got you	Ah, got you						
+2020-07-21 08:02:11	student009	student	143	you see	you see						
+2020-07-21 08:02:18	teacher008	teacher	144	Ok, <STUDENT>, I'll let you go enjoy your day, thank you, and see on Thursday same time?	Ok, <STUDENT>, I'll let you go enjoy your day, thank you, and see on Thursday same time?		7.0	closing			
+2020-07-21 08:02:28	student009	student	145	okay	okay						
+2020-07-21 08:02:33	student009	student	146	goodbye	goodbye						
+2020-07-21 08:02:44	student009	student	147	have a nice day!	have a nice day!						
+2020-07-21 08:02:54	teacher008	teacher	148	Thanks, you too!	Thanks, you too!						B2

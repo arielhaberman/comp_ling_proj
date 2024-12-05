@@ -1,0 +1,182 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2020-12-08 13:31:27	student009	student	1	hi	hi		1.0	opening			
+2020-12-08 13:31:36	teacher008	teacher	2	Hi <STUDENT>!	Hi <STUDENT>!						
+2020-12-08 13:31:45	teacher008	teacher	3	Your username looks mysterious today!	Your username looks mysterious today!		2.0	topic opening			
+2020-12-08 13:31:50	student009	student	4	yes	yes						
+2020-12-08 13:32:07	student009	student	5	if you turn ypur head	if you turn your head						
+2020-12-08 13:32:13	student009	student	6	upside down	upside down						
+2020-12-08 13:32:31	student009	student	7	ypu will be able to read my nickname	you will be able to read my nickname						
+2020-12-08 13:32:54	teacher008	teacher	8	Hmmm, I've turned my laptop upside down, but it hasn't helped	Hmmm, I've turned my laptop upside down, but it hasn't helped						
+2020-12-08 13:33:12	teacher008	teacher	9	Oh, got it! It says	Oh, got it! It says						
+2020-12-08 13:33:16	teacher008	teacher	10	I love you!	I love you!						
+2020-12-08 13:33:19	student009	student	11	yes	yes						
+2020-12-08 13:33:20	teacher008	teacher	12	That's clever))	That's clever))						
+2020-12-08 13:33:25	student009	student	13	hehe	hehe						
+2020-12-08 13:33:39	teacher008	teacher	14	How are you?	How are you?		3.0	topic opening			
+2020-12-08 13:33:44	student009	student	15	fine	fine						
+2020-12-08 13:33:50	student009	student	16	and you ?	and you ?						
+2020-12-08 13:34:00	teacher008	teacher	17	All good, thank you!	All good, thank you!						
+2020-12-08 13:34:20	teacher008	teacher	18	It was snowing last Friday! It was wonderful and unexpected	It was snowing last Friday! It was wonderful and unexpected		3a	topic development			
+2020-12-08 13:34:47	student009	student	19	nice	nice						
+2020-12-08 13:34:53	student009	student	20	congratulations	congratulations						
+2020-12-08 13:35:00	teacher008	teacher	21	Thank you!	Thank you!						
+2020-12-08 13:35:06	teacher008	teacher	22	What's the weather like in Kyiv?	What's the weather like in Kyiv?		3b	topic development			
+2020-12-08 13:35:52	student009	student	23	a bit snow today	a bit of snow today						
+2020-12-08 13:36:02	student009	student	24	and very cold	and very cold						
+2020-12-08 13:36:08	teacher008	teacher	25	ok, can you make a full sentence, please?	ok, can you make a full sentence, please?			eliciting	discourse management		
+2020-12-08 13:37:05	student009	student	26	it was a bit snowy and really cold today	it was a bit snowy and really cold today						
+2020-12-08 13:37:57	teacher008	teacher	27	Ok, that's better, thank you :)	Ok, that's better, thank you :)						
+2020-12-08 13:38:23	teacher008	teacher	28	If it's 'today' though, it's not Past Simple, is it? Could you try Present Perfect instead?	If it's 'today' though, it's not Past Simple, is it? Could you try Present Perfect instead?		3c	eliciting,repair	grammatical resource		
+2020-12-08 13:39:12	student009	student	29	but it is not snowing anymore	but it is not snowing anymore						
+2020-12-08 13:39:52	teacher008	teacher	30	I see, yes. But it's still today. Even if the action finished, the time hasn't	I see, yes. But it's still today. Even if the action finished, the time hasn't			scaffolding	grammatical resource		
+2020-12-08 13:40:07	teacher008	teacher	31	You can say 'It was snowing this morning' because it's not morning anymore	You can say 'It was snowing this morning' because it's not morning anymore			scaffolding	grammatical resource		
+2020-12-08 13:40:18	teacher008	teacher	32	but 'It __ ___ snowing today'	but 'It __ ___ snowing today'			eliciting	grammatical resource		
+2020-12-08 13:40:33	teacher008	teacher	33	because today is still on	because today is still on			scaffolding	grammatical resource		
+2020-12-08 13:40:40	student009	student	34	It was snowing in the morning and it has been cold	It was snowing in the morning and it has been cold						
+2020-12-08 13:40:52	teacher008	teacher	35	Ok, that's good :)	Ok, that's good :)						
+2020-12-08 13:41:09	teacher008	teacher	36	It's ok to say 'It has been snowing today!'	It's ok to say 'It has been snowing today!'			scaffolding	grammatical resource		
+2020-12-08 13:42:06	teacher008	teacher	38	One second, I'll find an exercise for this	One second, I'll find an exercise for this						
+2020-12-08 13:42:30	teacher008	teacher	39	But a lot of the time, we look not at the action, whether it's finished or not, but at the time word	But a lot of the time, we look not at the action, whether it's finished or not, but at the time word			scaffolding	grammatical resource		
+2020-12-08 13:42:39	teacher008	teacher	40	to decide which tense to use	to decide which tense to use			scaffolding	grammatical resource		
+2020-12-08 13:43:44	teacher008	teacher	41	For example, 'My friend hasn't come to school today'	For example, 'My friend hasn't come to school today'			scaffolding	grammatical resource		
+2020-12-08 13:44:19	teacher008	teacher	42	You could argue that the action is in the past. It's already happened. But the time is still today	You could argue that the action is in the past. It's already happened. But the time is still today			scaffolding	grammatical resource		
+2020-12-08 13:44:25	teacher008	teacher	43	and we're using a present tense	and we're using a present tense			scaffolding	grammatical resource		
+2020-12-08 13:44:31	teacher008	teacher	44	Does it make sense to you?	Does it make sense to you?						
+2020-12-08 13:45:12	student009	student	45	i think yed	I think yes						
+2020-12-08 13:45:48	teacher008	teacher	46	I'll find an exercise for you in a minute, I had it somewhere	I'll find an exercise for you in a minute, I had it somewhere						
+2020-12-08 13:45:59	teacher008	teacher	47	How did the party go on Friday?	How did the party go on Friday?		3d	topic development			
+2020-12-08 13:46:25	student009	student	48	it was okay	it was okay						
+2020-12-08 13:46:47	student009	student	49	there were some nice food and we played mafia	there was some nice food and we played mafia						
+2020-12-08 13:47:39	teacher008	teacher	50	Ooh, mafia, I remember that!	Ooh, mafia, I remember that!						
+2020-12-08 13:48:07	teacher008	teacher	51	Are you planning to have a party for your birthday?	Are you planning to have a party for your birthday?		3e	topic development			
+2020-12-08 13:49:06	student009	student	52	yes	yes						
+2020-12-08 13:49:50	teacher008	teacher	53	What would you like your party to be like?	What would you like your party to be like?						
+2020-12-08 13:50:48	student009	student	54	I didn't really think abput it	I haven't really thought about it						
+2020-12-08 13:51:00	student009	student	55	I will think about it in January	I will think about it in January						
+2020-12-08 13:51:07	teacher008	teacher	56	You haven't thought about it?	You haven't thought about it?	54.0		repair	grammatical resource		
+2020-12-08 13:51:10	teacher008	teacher	57	Sure :)	Sure :)	55.0					
+2020-12-08 13:52:11	teacher008	teacher	58	See, this is a Present Perfect situation. You're telling me now about it, the result is important now	See, this is a Present Perfect situation. You're telling me now about it, the result is important now	56.0		scaffolding	grammatical resource		
+2020-12-08 13:52:20	teacher008	teacher	59	so 'you haven't thought about it'	so 'you haven't thought about it'			scaffolding	grammatical resource		
+2020-12-08 13:54:22	teacher008	teacher	60	Ok, I'm going to give you a few sentences. Can you look at the time adverbial, please (the phrase that states the time) and let me know if it's a finished past time or a an unfinished time that is still continuing	Ok, I'm going to give you a few sentences. Can you look at the time adverbial, please (the phrase that states the time) and let me know if it's a finished past time or a an unfinished time that is still continuing		4.0	exercise	grammatical resource	website	
+2020-12-08 13:54:38	teacher008	teacher	61	My grandparents moved to the United States IN 1968.	My grandparents moved to the United States IN 1968.						
+2020-12-08 13:54:47	teacher008	teacher	62	finished past or not finished?	finished past or not finished?						
+2020-12-08 13:55:19	student009	student	63	finished	finished						
+2020-12-08 13:55:29	teacher008	teacher	64	yes, correct! 1968 is long over	yes, correct! 1968 is long over						
+2020-12-08 13:55:34	teacher008	teacher	65	next one	next one		4a				
+2020-12-08 13:55:38	teacher008	teacher	66	They're still in the US, so they've lived there FOR MORE THAN 50 YEARS.	They're still in the US, so they've lived there FOR MORE THAN 50 YEARS.						
+2020-12-08 13:56:57	student009	student	67	not finished	not finished						
+2020-12-08 13:57:15	teacher008	teacher	68	correct!	correct!						
+2020-12-08 13:57:17	teacher008	teacher	69	My grandparents came to visit us LAST WEEK	My grandparents came to visit us LAST WEEK		4b				
+2020-12-08 13:58:51	student009	student	70	finished	finished						
+2020-12-08 13:59:04	teacher008	teacher	71	They've visited us every summer SINCE I WAS BORN.	They've visited us every summer SINCE I WAS BORN.		4c				
+2020-12-08 13:59:24	student009	student	72	not finished	not finished						
+2020-12-08 13:59:38	teacher008	teacher	73	Sorry, Greg hasn't come to work TODAY. Can I take a message?	Sorry, Greg hasn't come to work TODAY. Can I take a message?		4d				
+2020-12-08 13:59:49	student009	student	74	not finished	not finished						
+2020-12-08 13:59:57	teacher008	teacher	75	Sorry, Greg went out FIVE MINUTES AGO. Can I take a message?	Sorry, Greg went out FIVE MINUTES AGO. Can I take a message?		4e				
+2020-12-08 14:00:04	student009	student	76	finished	finished						
+2020-12-08 14:00:12	teacher008	teacher	77	I've received 25 emails THIS MORNING, most of them spam!	I've received 25 emails THIS MORNING, most of them spam!		4f				
+2020-12-08 14:00:21	student009	student	78	finished	finished						
+2020-12-08 14:00:38	teacher008	teacher	79	uh-uh!	uh-uh!						
+2020-12-08 14:00:50	teacher008	teacher	80	this morning sounds unfinished to me)	this morning sounds unfinished to me)			repair	grammatical resource		
+2020-12-08 14:01:02	student009	student	81	it is finished	it is finished						
+2020-12-08 14:01:05	student009	student	82	to me	to me						
+2020-12-08 14:01:32	teacher008	teacher	83	Oh, I see what you mean. Like with the snow example? It's finished to us now because it's the afternoon	Oh, I see what you mean. Like with the snow example? It's finished to us now because it's the afternoon						
+2020-12-08 14:01:44	student009	student	84	yes	yes						
+2020-12-08 14:02:25	teacher008	teacher	85	But from this sentence (from the exercise), it sounds like it's still the morning.	But from this sentence (from the exercise), it sounds like it's still the morning.			scaffolding	grammatical resource		
+2020-12-08 14:02:31	teacher008	teacher	86	Actually, look at the next sentence	Actually, look at the next sentence			scaffolding	grammatical resource		
+2020-12-08 14:02:33	teacher008	teacher	87	I received 25 emails THIS MORNING, most of them spam!	I received 25 emails THIS MORNING, most of them spam!			scaffolding	grammatical resource		
+2020-12-08 14:02:46	teacher008	teacher	88	What's the difference between the sentences?	What's the difference between the sentences?			eliciting	grammatical resource		
+2020-12-08 14:02:58	student009	student	89	perfect and past	perfect and past						
+2020-12-08 14:03:20	teacher008	teacher	90	Yes, the only difference is the tense	Yes, the only difference is the tense			scaffolding	grammatical resource		
+2020-12-08 14:03:28	student009	student	91	not finished anf finished	not finished anf finished			scaffolding	grammatical resource		
+2020-12-08 14:03:29	teacher008	teacher	92	Present Perfect + this morning = unfinished	Present Perfect + this morning = unfinished			scaffolding	grammatical resource		
+2020-12-08 14:03:41	teacher008	teacher	93	past simple + this morning = finished (like the snow)	past simple + this morning = finished (like the snow)			scaffolding	grammatical resource		
+2020-12-08 14:04:55	teacher008	teacher	94	Ok, let's test your memory!	Ok, let's test your memory!		5.0	exercise,exercise	grammatical resource	website	
+2020-12-08 14:05:08	teacher008	teacher	95	Could you insert the verb in the correct form?	Could you insert the verb in the correct form?						
+2020-12-08 14:05:12	teacher008	teacher	96	My grandparents (move)     to the United States in 1968.	My grandparents (move)     to the United States in 1968.						
+2020-12-08 14:05:41	student009	student	97	moved	moved						
+2020-12-08 14:06:14	teacher008	teacher	98	yes!	yes!						
+2020-12-08 14:06:16	teacher008	teacher	99	They're still in the US, so they (live)     there for more than 50 years.	They're still in the US, so they (live)     there for more than 50 years.		5a				
+2020-12-08 14:07:02	student009	student	100	they have lived	they have lived						
+2020-12-08 14:07:14	teacher008	teacher	101	yes, good!	yes, good!						
+2020-12-08 14:07:16	teacher008	teacher	102	My grandparents (come)     to visit us last week.	My grandparents (come)     to visit us last week.		5b				
+2020-12-08 14:07:29	student009	student	103	came	came						
+2020-12-08 14:07:33	teacher008	teacher	104	They (visit)     us every summer since I was born.	They (visit)     us every summer since I was born.		5c				
+2020-12-08 14:07:49	student009	student	105	have visited	have visited						
+2020-12-08 14:08:10	teacher008	teacher	106	Sorry, Greg (come)     to work today. Can I take a message?	Sorry, Greg (come)     to work today. Can I take a message?		5d				
+2020-12-08 14:08:56	student009	student	107	hasn't come	hasn't come						
+2020-12-08 14:09:04	teacher008	teacher	108	yes, good!	yes, good!						
+2020-12-08 14:09:06	teacher008	teacher	109	Sorry, Greg (go out)     five minutes ago. Can I take a message?	Sorry, Greg (go out)     five minutes ago. Can I take a message?		5e				
+2020-12-08 14:09:15	student009	student	110	went out	went out						
+2020-12-08 14:09:19	teacher008	teacher	111	yes	yes						
+2020-12-08 14:09:21	teacher008	teacher	112	It's 11 a.m. – I     25 emails this morning, most of them spam!	It's 11 a.m. – I     25 emails this morning, most of them spam!		5f				
+2020-12-08 14:09:39	student009	student	113	have received	have received						
+2020-12-08 14:09:59	teacher008	teacher	114	yes, we get some help here with '11 a.m.' :)	yes, we get some help here with '11 a.m.' :)						
+2020-12-08 14:10:00	teacher008	teacher	115	It's 6 p.m. – I     25 emails this morning, most of them spam!	It's 6 p.m. – I     25 emails this morning, most of them spam!		5g				
+2020-12-08 14:10:04	student009	student	116	received	received						
+2020-12-08 14:10:08	teacher008	teacher	117	Yes, well done!	Yes, well done!						
+2020-12-08 14:10:49	teacher008	teacher	118	Present Perfect is quite unusual for speaker of Russian / Ukrainian, but it's a very common tense in English	Present Perfect is quite unusual for speaker of Russian / Ukrainian, but it's a very common tense in English		6.0	scaffolding	grammatical resource		
+2020-12-08 14:11:13	teacher008	teacher	119	I'll tell you about some of the things I have done today.	I'll tell you about some of the things I have done today.						
+2020-12-08 14:11:46	teacher008	teacher	120	I've taken my son to school, I've baked a bread, I've spoken to my boss, I've taught a class and now I'm talking to you	I've taken my son to school, I've baked a bread, I've spoken to my boss, I've taught a class and now I'm talking to you			scaffolding	grammatical resource		
+2020-12-08 14:11:58	teacher008	teacher	121	They are all finished actions but they all happened 'today'	They are all finished actions but they all happened 'today'			scaffolding	grammatical resource		
+2020-12-08 14:12:28	teacher008	teacher	122	Now, I could have said, 'I took my son to school at 8.30 am and I spoke to my boss at 11 am'	Now, I could have said, 'I took my son to school at 8.30 am and I spoke to my boss at 11 am'			scaffolding	grammatical resource		
+2020-12-08 14:12:48	teacher008	teacher	123	I would put those actions in the past	I would put those actions in the past			scaffolding	grammatical resource		
+2020-12-08 14:12:59	teacher008	teacher	124	But with 'today' Present Perfect is fine!	But with 'today' Present Perfect is fine!			scaffolding	grammatical resource		
+2020-12-08 14:13:06	teacher008	teacher	125	What have you done today so far?	What have you done today so far?		6a	eliciting	grammatical resource		
+2020-12-08 14:13:29	student009	student	126	I have been to school	I have been to school						
+2020-12-08 14:14:24	teacher008	teacher	127	Ok, cool. Can you give me two more examples, please?	Ok, cool. Can you give me two more examples, please?			eliciting	grammatical resource		
+2020-12-08 14:14:45	student009	student	128	I have eaten my breakfast	I have eaten my breakfast						
+2020-12-08 14:15:19	student009	student	129	I have forgot my trainers for the PE	I have forgotten my trainers for PE						
+2020-12-08 14:15:29	student009	student	130	forgotten	forgotten			repair	grammatical resource		
+2020-12-08 14:15:31	teacher008	teacher	131	Oh no!	Oh no!	129.0					
+2020-12-08 14:15:36	teacher008	teacher	132	good correction :)	good correction :)	130.0					
+2020-12-08 14:16:09	teacher008	teacher	133	Good! What have you done this week?	Good! What have you done this week?		6b	eliciting	grammatical resource		
+2020-12-08 14:16:53	student009	student	134	I have dony my homework	I have done my homework						
+2020-12-08 14:16:57	student009	student	135	done	done			repair	writing		
+2020-12-08 14:17:20	teacher008	teacher	136	Cool! Have you watched / played / read anything exciting?	Cool! Have you watched / played / read anything exciting?			eliciting	grammatical resource		
+2020-12-08 14:17:31	student009	student	137	no	no						
+2020-12-08 14:17:47	teacher008	teacher	138	Have you learned anything exciting at school? :)	Have you learned anything exciting at school? :)			eliciting	grammatical resource		
+2020-12-08 14:17:58	student009	student	139	no	no						
+2020-12-08 14:18:37	teacher008	teacher	140	Ok, can you make three sentences about boring unexciting things that have happened this week?	Ok, can you make three sentences about boring unexciting things that have happened this week?		6c	eliciting	grammatical resource		
+2020-12-08 14:19:15	student009	student	141	Our teacher have said that we are really bad students	Our teacher has said that we are really bad students						
+2020-12-08 14:19:37	student009	student	142	we have started new theme on physics	we have started a new topic in physics						
+2020-12-08 14:19:39	teacher008	teacher	143	Oh no, sounds harsh!	Oh no, sounds harsh!	141.0					
+2020-12-08 14:20:47	student009	student	144	and our biology teacher have came back after her 2weeks lockdown	and our biology teacher has come back after her 2-week self-isolation	142.0					
+2020-12-08 14:21:31	teacher008	teacher	145	Oh did she have to self-isolate for two weeks? Did she have covid?	Oh did she have to self-isolate for two weeks? Did she have covid?						
+2020-12-08 14:21:44	student009	student	146	i don't know	I don't know						
+2020-12-08 14:21:47	teacher008	teacher	147	Our biology teacher __ ___ back	Our biology teacher __ ___ back	144.0	6d	eliciting,repair	grammatical resource		
+2020-12-08 14:21:55	student009	student	148	has	has						
+2020-12-08 14:22:04	teacher008	teacher	149	and the second gap?	and the second gap?						
+2020-12-08 14:22:12	student009	student	150	come	come						
+2020-12-08 14:22:18	teacher008	teacher	151	Yes, well done :)	Yes, well done :)						
+2020-12-08 14:22:40	teacher008	teacher	152	This week, I've started to bake a German Christams cake called 'stollen'	This week, I've started to bake a German Christams cake called 'stollen'		7.0	topic opening	grammatical resource		
+2020-12-08 14:22:48	teacher008	teacher	153	Have you heard of this one?	Have you heard of this one?						
+2020-12-08 14:22:59	student009	student	154	no	no						
+2020-12-08 14:23:12	teacher008	teacher	155	It takes a few days to make it, and then about two weeks for it to ripen	It takes a few days to make it, and then about two weeks for it to ripen						
+2020-12-08 14:23:27	teacher008	teacher	156	So I had to start early	So I had to start early						
+2020-12-08 14:24:09	teacher008	teacher	157	It's got lots of raisins and citrus peel in it, as well as nuts	It's got lots of raisins and citrus peel in it, as well as nuts						
+2020-12-08 14:24:18	teacher008	teacher	158	I'm excited about it!	I'm excited about it!						
+2020-12-08 14:26:08	teacher008	teacher	159	Did you find it upsetting that your teacher said you were all bad students?	Did you find it upsetting that your teacher said you were all bad students?		8.0	topic opening			
+2020-12-08 14:26:15	student009	student	160	yes	yes						
+2020-12-08 14:26:29	teacher008	teacher	161	Oh no! Is it a teacher that you like?	Oh no! Is it a teacher that you like?						
+2020-12-08 14:26:40	student009	student	162	she shoutes a lot	she shouts a lot						
+2020-12-08 14:26:42	student009	student	163	no	no						
+2020-12-08 14:26:53	teacher008	teacher	164	I'm sure it was an exaggeration!	I'm sure it was an exaggeration!						
+2020-12-08 14:27:03	teacher008	teacher	165	do you know 'exaggeration'?	do you know 'exaggeration'?		8a	eliciting	lexical resource,meaning		
+2020-12-08 14:27:07	student009	student	166	no	no						
+2020-12-08 14:27:30	teacher008	teacher	167	when we say that something is much bigger / worse / better / more important than it actually is	when we say that something is much bigger / worse / better / more important than it actually is			scaffolding	lexical resource,meaning		
+2020-12-08 14:27:58	teacher008	teacher	168	for example, it's a cold day in England today, but I could say, 'It's absolutely Arctic'	for example, it's a cold day in England today, but I could say, 'It's absolutely Arctic'			scaffolding	lexical resource,meaning		
+2020-12-08 14:28:18	teacher008	teacher	169	Well, of course it's not! It's probably -30 degrees in the Arctic	Well, of course it's not! It's probably -30 degrees in the Arctic			scaffolding	lexical resource,meaning		
+2020-12-08 14:28:24	teacher008	teacher	170	and it's only +1 here	and it's only +1 here			scaffolding	lexical resource,meaning		
+2020-12-08 14:28:31	teacher008	teacher	171	so this is an exaggeration	so this is an exaggeration			scaffolding	lexical resource,meaning		
+2020-12-08 14:28:46	teacher008	teacher	172	As I'm sure what your teacher said was :)	As I'm sure what your teacher said was :)						
+2020-12-08 14:30:03	student009	student	173	she was angry just because one boy was smiling	she was angry just because one boy was smiling						
+2020-12-08 14:30:24	teacher008	teacher	174	Haha, well, definitely an exaggeration then, right?	Haha, well, definitely an exaggeration then, right?						
+2020-12-08 14:31:35	teacher008	teacher	175	Ok, <STUDENT>, I'll let you go. Is it another Minecraft night tonight?	Ok, <STUDENT>, I'll let you go. Is it another Minecraft night tonight?		9.0	closing			
+2020-12-08 14:31:51	student009	student	176	no	no						
+2020-12-08 14:32:02	student009	student	177	only Fridays	only Fridays						
+2020-12-08 14:32:37	teacher008	teacher	178	Oh goodness, can you believe I thought it was Friday?!	Oh goodness, can you believe I thought it was Friday?!						
+2020-12-08 14:32:47	teacher008	teacher	179	Uh-uh, back to reality! :))	Uh-uh, back to reality! :))						
+2020-12-08 14:32:53	student009	student	180	hehe)	hehe)						
+2020-12-08 14:32:59	student009	student	181	goodbye !	goodbye !						
+2020-12-08 14:33:01	teacher008	teacher	182	I'll let you go anyway :) bye!	I'll let you go anyway :) bye!						B2

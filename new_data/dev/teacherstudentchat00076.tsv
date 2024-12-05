@@ -1,0 +1,99 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2020-04-15 11:16:46	teacher001	teacher	1	Hello!	Hello!		1.0	opening			
+2020-04-15 11:16:50	student007	student	2	hi	hi						
+2020-04-15 11:16:54	student007	student	3	Another benefit of exploring space is that there are massive resources and elements. such as precious metals or helium and so on where we may find them on asteroids and planets.	Another benefit of exploring space is that there are massive resources such as precious metals or helium and so on that we may find on asteroids and planets.		2.0	exercise	writing		
+2020-04-15 11:17:58	teacher001	teacher	4	OK thanks <STUDENT> - some good stuff there...have you already done more that's coming?	OK thanks <STUDENT> - some good stuff there...have you already done more that's coming?						
+2020-04-15 11:18:52	student007	student	5	no..	no..						
+2020-04-15 11:19:18	teacher001	teacher	6	No that's fine! That's great start...hold on a sec...	No that's fine! That's great start...hold on a sec...						
+2020-04-15 11:19:27	teacher001	teacher	7	a great start i mean	a great start i mean			repair	writing		
+2020-04-15 11:20:23	student007	student	8	as a consequence, a lack of resources on the earth will be solved.	as a consequence, a lack of resources on earth will be solved.		2a				
+2020-04-15 11:20:27	teacher001	teacher	9	Can i suggest a slightly more general sentence (a topic sentence) to start before we look at your words exactly....	Can i suggest a slightly more general sentence (a topic sentence) to start before we look at your words exactly....		2b	scaffolding	writing,discourse management		
+2020-04-15 11:20:38	student007	student	10	yes.. I need it	yes.. I need it						
+2020-04-15 11:20:53	teacher001	teacher	11	Ah yes ... great idea to connect with the idea there yes welldone	Ah yes ... great idea to connect with the idea there yes welldone	8.0					
+2020-04-15 11:21:13	teacher001	teacher	12	OK OK so....remember the 'category' here?	OK OK so....remember the 'category' here?		2c	eliciting	writing,task achievement		
+2020-04-15 11:21:18	teacher001	teacher	13	POlitical?	POlitical?						
+2020-04-15 11:21:33	teacher001	teacher	14	No! It's ________ benefits...?	No! It's ________ benefits...?			eliciting	writing,task achievement		
+2020-04-15 11:22:34	student007	student	15	it is economical benefits.	it is economic benefits.						
+2020-04-15 11:25:29	teacher001	teacher	17	yes that's it (economic benefits)	yes that's it (economic benefits)			scaffolding	writing,task achievement,lexical resource		
+2020-04-15 11:26:12	teacher001	teacher	21	sorry internet problems!	sorry internet problems!		2d	disruption			
+2020-04-15 11:26:23	student007	student	22	yes!! me too	yes!! me too						
+2020-04-15 11:26:32	teacher001	teacher	23	ok strange	ok strange						
+2020-04-15 11:26:56	teacher001	teacher	24	anyway so...let's just get this first topic sentence sorted out.....hold on	anyway so...let's just get this first topic sentence sorted out.....hold on		2e				
+2020-04-15 11:27:25	student007	student	25	ok	ok						
+2020-04-15 11:27:47	teacher001	teacher	26	Look at these two possible sentences coming up  <STUDENT> - can you complete the gaps? ! _________   _________ economic benefits to space exploration. OR  Space exploration _______ economic benefits.	Look at these two possible sentences coming up  <STUDENT> - can you complete the gaps? ! _________   _________ economic benefits to space exploration. OR  Space exploration _______ economic benefits.		2f	eliciting	lexical resource,grammatical resource		
+2020-04-15 11:28:23	teacher001	teacher	27	They are not 'difficult' words by the way!	They are not 'difficult' words by the way!			scaffolding	lexical resource,grammatical resource		
+2020-04-15 11:28:44	teacher001	teacher	28	Just words to make simple but correct structures	Just words to make simple but correct structures			scaffolding	lexical resource,grammatical resource		
+2020-04-15 11:29:09	student007	student	29	One of economic to space exploration. /   in	One of economic to space exploration. /   in						
+2020-04-15 11:30:03	teacher001	teacher	48	Remember these two? London ____ many museums. OR _____  _____ many museums in London.	Remember these two? London ____ many museums. OR _____  _____ many museums in London.			scaffolding	lexical resource,grammatical resource		
+2020-04-15 11:30:09	student007	student	49	wow.....	wow.....						
+2020-04-15 11:30:14	student007	student	50	sorry	sorry						
+2020-04-15 11:30:33	teacher001	teacher	51	no problem!	no problem!						
+2020-04-15 11:31:20	student007	student	52	There are economic benefits to space exploration.	There are economic benefits to space exploration.						
+2020-04-15 11:31:35	teacher001	teacher	53	Yes great! OR....	Yes great! OR....						
+2020-04-15 11:32:35	student007	student	54	space exploration has economic benefits.	space exploration has economic benefits.						
+2020-04-15 11:33:04	teacher001	teacher	55	yes ok cool	yes ok cool						
+2020-04-15 11:33:39	student007	student	56	thanks	thanks						
+2020-04-15 11:33:53	teacher001	teacher	57	Remember <STUDENT>, often we might want to say that these benefits are not exactly certain or they haven'y happened yet right?	Remember <STUDENT>, often we might want to say that these benefits are not exactly certain or they haven'y happened yet right?		2g	scaffolding	writing,task achievement		
+2020-04-15 11:34:11	teacher001	teacher	58	So a good word here might be 'potential' OK?	So a good word here might be 'potential' OK?			scaffolding	lexical resource		
+2020-04-15 11:35:01	teacher001	teacher	59	So for example our first sentence could be: 'There are potential economic benefits to space exploration.'	So for example our first sentence could be: 'There are potential economic benefits to space exploration.'			scaffolding	writing,lexical resource,task achievement		
+2020-04-15 11:35:32	student007	student	60	so.. there are economic potential to space exploration.	so.. there is economic potential to space exploration.						
+2020-04-15 11:36:14	teacher001	teacher	62	Yes  - there is (singular) economic potential in space exploration = possible	Yes  - there is (singular) economic potential in space exploration = possible			scaffolding,repair	grammatical resource,lexical resource		
+2020-04-15 11:36:35	student007	student	63	ok, thanks	ok, thanks						
+2020-04-15 11:36:52	teacher001	teacher	64	OK your idea before was 'a lack of resources' - let's try that now OK? hold on a sec	OK your idea before was 'a lack of resources' - let's try that now OK? hold on a sec		3.0	exercise	writing,task achievement		
+2020-04-15 11:37:38	student007	student	65	ok	ok						
+2020-04-15 11:37:44	teacher001	teacher	66	Any ideas? Natural resources on Earth are ______- very quickly.  OR We are _____ Earths natural resources very quickly. '	Any ideas? Natural resources on Earth are ______- very quickly.  OR We are _____ Earths natural resources very quickly. '			scaffolding,eliciting	lexical resource		
+2020-04-15 11:38:22	teacher001	teacher	67	so a verb for each one if you can (different verb )	so a verb for each one if you can (different verb )			eliciting	lexical resource		
+2020-04-15 11:38:52	student007	student	68	use out	used up						
+2020-04-15 11:39:23	student007	student	69	supply	supply						
+2020-04-15 11:40:05	student007	student	70	demand	demand						
+2020-04-15 11:40:10	teacher001	teacher	71	OK nearly! 'Use UP' = good! for the second one	OK nearly! 'Use UP' = good! for the second one			scaffolding	lexical resource		
+2020-04-15 11:40:45	student007	student	72	rely on	rely on						
+2020-04-15 11:40:47	teacher001	teacher	73	And the first one = 'running out/disappearing OK?	And the first one = 'running out/disappearing OK?			scaffolding	lexical resource		
+2020-04-15 11:41:01	student007	student	74	yes,ok	yes,ok						
+2020-04-15 11:41:44	teacher001	teacher	75	so the verbs 'supply' and 'demand' are nice verbs in many situations but the problem here is that you have 'very quickly' you see?	so the verbs 'supply' and 'demand' are nice verbs in many situations but the problem here is that you have 'very quickly' you see?			scaffolding	lexical resource		
+2020-04-15 11:42:51	teacher001	teacher	76	So <STUDENT> WHY are these resources disappearing so quickly? (for example)	So <STUDENT> WHY are these resources disappearing so quickly? (for example)		3a	eliciting	writing,task achievement		
+2020-04-15 11:44:01	student007	student	77	human waste them	humans waste them						
+2020-04-15 11:44:36	teacher001	teacher	78	OK fine yes I am sure you're right!   How about the number of people on the planet?	OK fine yes I am sure you're right!   How about the number of people on the planet?			eliciting	writing,task achievement		
+2020-04-15 11:45:10	student007	student	79	16 bilions?	16 billion?						
+2020-04-15 11:45:38	student007	student	80	1.6 billion I guess	1.6 billion I guess						
+2020-04-15 11:46:49	teacher001	teacher	81	So for example: 'There are potential economic benefits to space exploration. Natural resources on Earth are running out because the number of people on the planet is increasing. ' OK??	So for example: 'There are potential economic benefits to space exploration. Natural resources on Earth are running out because the number of people on the planet is increasing. ' OK??			scaffolding	writing,task achievement		
+2020-04-15 11:47:32	teacher001	teacher	82	Your next idea was: there are massive resources and elements. such as precious metals or helium and so on where we may find them on asteroids and planets.	Your next idea was: there are massive resources and elements. such as precious metals or helium and so on where we may find them on asteroids and planets.		4.0				
+2020-04-15 11:47:42	student007	student	83	yes!! I like it	yes!! I like it						
+2020-04-15 11:47:51	teacher001	teacher	84	OK cool ...Let's have a quick think about this idea ... hold on....	OK cool ...Let's have a quick think about this idea ... hold on....						
+2020-04-15 11:48:50	student007	student	85	ok	ok						
+2020-04-15 11:49:05	teacher001	teacher	86	Any ideas for the gaps?? “Asteroids and other planets ______  raw materials such as gold and other precious metals.”   OR….” ______  ______ raw materials such as gold and other precious metals on asteroids and other planets. “	Any ideas for the gaps?? “Asteroids and other planets ______  raw materials such as gold and other precious metals.”   OR….” ______  ______ raw materials such as gold and other precious metals on asteroids and other planets. “		4a	eliciting	grammatical resource,lexical resource		
+2020-04-15 11:50:07	student007	student	87	have and there are	have and there are						
+2020-04-15 11:51:18	teacher001	teacher	89	OK great thanks	OK great thanks						
+2020-04-15 11:53:16	teacher001	teacher	91	have is OK .. contain would be good too right?	have is OK .. contain would be good too right?			scaffolding	lexical resource		
+2020-04-15 11:53:16	student007	student	93	thanks	thanks						
+2020-04-15 11:53:54	teacher001	teacher	95	OK sothe resources are there ....and we have to _______ them? ?	OK sothe resources are there ....and we have to _______ them? ?		4b	eliciting	lexical resource		
+2020-04-15 11:54:01	student007	student	96	yes!! I really like this structure.	yes!! I really like this structure.						
+2020-04-15 11:54:15	teacher001	teacher	97	OK!	OK!						
+2020-04-15 11:54:47	student007	student	98	we have to save them	we have to save them						
+2020-04-15 11:55:36	teacher001	teacher	99	Ah so the resources on Earth maybe yes! BUt the raw materials on asteroids? We want to develop the technology to 'ex_ _  _ _ _' them right?	Ah so the resources on Earth maybe yes! BUt the raw materials on asteroids? We want to develop the technology to 'ex_ _  _ _ _' them right?			eliciting	lexical resource		
+2020-04-15 11:56:11	teacher001	teacher	100	LIke a dentist with a bad tooth (do you know the word?!_ ... or another way to say it of you can think of one!	LIke a dentist with a bad tooth (do you know the word?!_ ... or another way to say it of you can think of one!			eliciting	lexical resource		
+2020-04-15 11:58:25	teacher001	teacher	101	Hey <STUDENT>...'extract' is good OK? Sorry - we're running out of time...	Hey <STUDENT>...'extract' is good OK? Sorry - we're running out of time...			scaffolding	lexical resource		
+2020-04-15 11:58:42	student007	student	102	explore	explore						
+2020-04-15 11:59:09	teacher001	teacher	110	ah ok not a bad idea!	ah ok not a bad idea!						
+2020-04-15 11:59:21	teacher001	teacher	111	extract is best ok?!	extract is best ok?!			scaffolding	lexical resource		
+2020-04-15 11:59:46	teacher001	teacher	112	Sorry <STUDENT> we're coming to an end here - I took  too long I'm afraid ... hold on...	Sorry <STUDENT> we're coming to an end here - I took  too long I'm afraid ... hold on...		4c				
+2020-04-15 11:59:56	student007	student	113	yes..sorry, I try to send answers based on slow internet speed.	yes..sorry, I try to send answers based on slow internet speed.						
+2020-04-15 12:00:44	teacher001	teacher	114	So the point here <STUDENT> is that your orginal sentence ( Another benefit of exploring space is that there are massive resources and elements. such as precious metals or helium and so on where we may find them on asteroids and planets.) is the right idea but i would suggest you take a step back and make it a bit more step by step ok??	So the point here <STUDENT> is that your orginal sentence ( Another benefit of exploring space is that there are massive resources and elements. such as precious metals or helium and so on where we may find them on asteroids and planets.) is the right idea but i would suggest you take a step back and make it a bit more step by step ok??			scaffolding	writing,discourse management,task achievement		
+2020-04-15 12:01:08	student007	student	115	yes, thanks	yes, thanks						
+2020-04-15 12:01:39	teacher001	teacher	116	I mean, !. There are benefits. 2. Earth's resouce are runnin out. 3. There are resources in space. 4. We can try to extract them ....You see what i mean?	I mean, !. There are benefits. 2. Earth's resouce are runnin out. 3. There are resources in space. 4. We can try to extract them ....You see what i mean?			scaffolding	writing,discourse management,task achievement		
+2020-04-15 12:02:06	teacher001	teacher	117	sorry about the spelling mistakes there!  but you understand the point?	sorry about the spelling mistakes there!  but you understand the point?						
+2020-04-15 12:02:23	student007	student	118	yes, I can understand	yes, I can understand						
+2020-04-15 12:02:47	teacher001	teacher	119	OK  fine! I know it's hard when you don;t know all the words you want to use but just try and keep it as correct as possible	OK  fine! I know it's hard when you don;t know all the words you want to use but just try and keep it as correct as possible		4d	scaffolding	writing		
+2020-04-15 12:03:06	teacher001	teacher	120	Don;t worry if it isn't really 'academic' /'difficult' OK?	Don;t worry if it isn't really 'academic' /'difficult' OK?			scaffolding	writing,lexical resource,register		
+2020-04-15 12:03:35	student007	student	121	ok, thanks I will remember this rules	ok, thanks I will remember these rules						
+2020-04-15 12:03:49	teacher001	teacher	122	OK <STUDENT> so I guess that's it for these lessons - It was good to work with you and I wish you  the best of the luck with the exam...	OK <STUDENT> so I guess that's it for these lessons - It was good to work with you and I wish you  the best of the luck with the exam...		5.0	closing			
+2020-04-15 12:04:39	student007	student	123	thanks very much, I am really happy with you in class.	thanks very much, I am really happy to have had classes with you.						
+2020-04-15 12:05:10	teacher001	teacher	124	OK no problem - all the best and I hope things get back to normal for you soon!	OK no problem - all the best and I hope things get back to normal for you soon!						
+2020-04-15 12:05:36	teacher001	teacher	125	Well done on all your hard work - stay positive and keep working hard!	Well done on all your hard work - stay positive and keep working hard!						
+2020-04-15 12:05:46	teacher001	teacher	126	Bye!	Bye!						
+2020-04-15 12:06:07	student007	student	127	yes!! i hope so, everything can recover I believe.	yes!! I hope so, everything can recover I believe.						
+2020-04-15 12:06:30	teacher001	teacher	128	Hold on <STUDENT> - am i stopping early? I think I am right? We have another 10 minutes sorry!	Hold on <STUDENT> - am i stopping early? I think I am right? We have another 10 minutes sorry!		6.0				
+2020-04-15 12:06:44	student007	student	129	thank for all, best regards	thanks for everything, best regards	127.0					
+2020-04-15 12:08:27	teacher001	teacher	130	<STUDENT> if you're still there let me show you this paragraph : The potential economic benefits of space exploration are enormous. We are using up the Earth’s natural resources at an alarming rate in order to support a growing world population. It is very likely that asteroids and even other planets contain huge amounts of raw materials. It will require a large investment to develop the technology to extract these resources and return them to Earth. Nevertheless, it is technically possible and ultimately in our own self-interest to fund such efforts.	<STUDENT> if you're still there let me show you this paragraph : The potential economic benefits of space exploration are enormous. We are using up the Earth’s natural resources at an alarming rate in order to support a growing world population. It is very likely that asteroids and even other planets contain huge amounts of raw materials. It will require a large investment to develop the technology to extract these resources and return them to Earth. Nevertheless, it is technically possible and ultimately in our own self-interest to fund such efforts.	128.0		scaffolding	writing		
+2020-04-15 12:08:49	teacher001	teacher	131	Are you there??	Are you there??		6a				
+2020-04-15 12:10:49	teacher001	teacher	132	OK sorry <STUDENT> I guess not :( .... over and out!	OK sorry <STUDENT> I guess not :( .... over and out!						B1

@@ -1,0 +1,177 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2021-04-19 12:04:11	student012	student	1	Hello <TEACHER>!	Hello <TEACHER>!		1.0	opening			
+2021-04-19 12:04:23	teacher008	teacher	2	Hi <STUDENT>!	Hi <STUDENT>!						
+2021-04-19 12:04:27	teacher008	teacher	3	How are you?	How are you?		2.0	topic opening			
+2021-04-19 12:04:59	student012	student	4	I'm fine! Thank you. And you?	I'm fine! Thank you. And you?						
+2021-04-19 12:05:10	student012	student	5	I did Part 1 of Listening	I did Part 1 of Listening		3.0	topic opening,homework	listening		
+2021-04-19 12:05:17	teacher008	teacher	6	Good, thank you!	Good, thank you!	4.0					
+2021-04-19 12:05:25	teacher008	teacher	7	Ok, cool! How did it go?	Ok, cool! How did it go?	5.0					
+2021-04-19 12:05:39	student012	student	8	No mistakes	No mistakes						
+2021-04-19 12:05:46	student012	student	9	How about we continue together?	How about we continue together?		3a				
+2021-04-19 12:05:51	teacher008	teacher	10	Yaay, well done!	Yaay, well done!	8.0					
+2021-04-19 12:05:55	student012	student	11	I've got everything set up =.	I've got everything set up =.	9.0					
+2021-04-19 12:06:37	teacher008	teacher	12	Hmm, I'm just worried we won't produce as much of a chat as we would otherwise!	Hmm, I'm just worried we won't produce as much of a chat as we would otherwise!						
+2021-04-19 12:06:44	student012	student	13	Oh, I see	Oh, I see						
+2021-04-19 12:06:49	student012	student	14	Ok then.	Ok then.						
+2021-04-19 12:06:53	teacher008	teacher	15	Sorry!	Sorry!						
+2021-04-19 12:06:57	student012	student	16	Sure	Sure						
+2021-04-19 12:07:17	teacher008	teacher	17	I think the following parts are longer chunks of listening, too	I think the following parts are longer chunks of listening, too						
+2021-04-19 12:07:23	teacher008	teacher	18	I mean, longer audio files	I mean, longer audio files						
+2021-04-19 12:07:32	student012	student	19	It appears so	It appears so						
+2021-04-19 12:08:03	teacher008	teacher	20	Shall we go back to the Use of English we started on last time? From the teacher's handbook pdf	Shall we go back to the Use of English we started on last time? From the teacher's handbook pdf		4.0	exercise	grammatical resource		
+2021-04-19 12:08:24	student012	student	21	Yes. Let's do that	Yes. Let's do that						
+2021-04-19 12:08:41	teacher008	teacher	22	Lovely! I think we stopped at part 3	Lovely! I think we stopped at part 3						
+2021-04-19 12:09:05	student012	student	23	What handbook should I open?	What handbook should I open?		4a	enquiry			
+2021-04-19 12:09:17	student012	student	24	The printed?	The printed one?						
+2021-04-19 12:09:24	student012	student	25	The pdf?	The pdf?						
+2021-04-19 12:10:22	teacher008	teacher	26	The one I sent to you last time, please. The pdf is called 168194-c2-proficiency teachers booklet	The one I sent to you last time, please. The pdf is called 168194-c2-proficiency teachers booklet						
+2021-04-19 12:10:36	teacher008	teacher	27	I can re-send it!	I can re-send it!						
+2021-04-19 12:11:35	student012	student	28	That would've been great	That would be great						
+2021-04-19 12:11:39	teacher008	teacher	29	Sure	Sure						
+2021-04-19 12:11:42	student012	student	30	I can't seem to find it	I can't seem to find it						
+2021-04-19 12:12:52	teacher008	teacher	31	You should have it in a sec	You should have it in a sec						
+2021-04-19 12:14:00	teacher008	teacher	32	It should be page 16 for you I think. Trouble is, the page count in my pdf reader is different from online!	It should be page 16 for you I think. Trouble is, the page count in my pdf reader is different from online!						
+2021-04-19 12:15:06	student012	student	33	Do we start with Part 4?	Do we start with Part 4?		4b	exercise	grammatical resource		
+2021-04-19 12:15:23	teacher008	teacher	34	Part 3, please! I don't think we did part 3	Part 3, please! I don't think we did part 3						
+2021-04-19 12:15:27	student012	student	35	Ok. Got it	Ok. Got it						
+2021-04-19 12:15:33	teacher008	teacher	36	Or did we?	Or did we?	34.0					
+2021-04-19 12:15:44	student012	student	37	17 scarcity	17 scarcity						
+2021-04-19 12:16:00	student012	student	38	18 genetically	18 genetically						
+2021-04-19 12:16:15	student012	student	39	19 occurance	19 occurence						
+2021-04-19 12:16:24	student012	student	40	occurrence	occurrence			repair	writing		
+2021-04-19 12:16:35	teacher008	teacher	41	good correction!	good correction!						
+2021-04-19 12:16:59	student012	student	42	20 sensitivity	20 sensitivity	40.0					
+2021-04-19 12:17:04	student012	student	43	thanks .	thanks .	41.0					
+2021-04-19 12:17:39	student012	student	44	21 spectacularly	21 spectacularly	42.0					
+2021-04-19 12:18:01	student012	student	45	22 advantageous	22 advantageous						
+2021-04-19 12:18:32	student012	student	46	23 progressively	23 progressively						
+2021-04-19 12:19:12	student012	student	47	24 evolution	24 evolution						
+2021-04-19 12:19:27	teacher008	teacher	48	Ah, you need an adjective in 24	Ah, you need an adjective in 24		4c	eliciting,repair	lexical resource		
+2021-04-19 12:19:49	student012	student	49	evolving	evolving						
+2021-04-19 12:19:57	teacher008	teacher	50	evolutionary	evolutionary			repair	lexical resource		
+2021-04-19 12:20:01	student012	student	51	aha	aha						
+2021-04-19 12:20:05	student012	student	52	that's rigt	that's right						
+2021-04-19 12:20:06	teacher008	teacher	53	as in 'an evolutionary advantage'	as in 'an evolutionary advantage'			scaffolding	lexical resource		
+2021-04-19 12:20:11	student012	student	54	right	right						
+2021-04-19 12:20:14	teacher008	teacher	55	But otherwise, all correct! Well done you!	But otherwise, all correct! Well done you!						
+2021-04-19 12:20:17	student012	student	56	thank you	thank you						
+2021-04-19 12:20:21	student012	student	57	next?	next?		5.0	exercise	grammatical resource		
+2021-04-19 12:20:33	teacher008	teacher	58	Yes, please! Your favourite	Yes, please! Your favourite						
+2021-04-19 12:20:42	student012	student	59	The next one is tricky though	The next one is tricky though						
+2021-04-19 12:20:43	student012	student	60	...	...						
+2021-04-19 12:21:36	student012	student	61	25 ???	25 ???						
+2021-04-19 12:22:27	student012	student	62	26 Mira tried not to take sided in the argument between...	26 Mira tried not to take sides in the argument between...						
+2021-04-19 12:22:33	teacher008	teacher	63	Ok, in key word transformation task, you get 2 points for each number. Even if you don't know the expression with 'way', it's worth scoring at least one point with the passive	Ok, in key word transformation task, you get 2 points for each number. Even if you don't know the expression with 'way', it's worth scoring at least one point with the passive	61.0		scaffolding,eliciting	grammatical resource,grammatical resource		
+2021-04-19 12:22:36	student012	student	64	*take sides	*take sides	62.0		repair	writing		
+2021-04-19 12:22:45	teacher008	teacher	65	26. Correct!	26. Correct!						
+2021-04-19 12:22:54	student012	student	66	ok	ok	63.0					
+2021-04-19 12:23:29	student012	student	67	Passengers were instructed to make way down the bus	Passengers were instructed to make their way down the bus						
+2021-04-19 12:24:16	teacher008	teacher	68	Nearly! were instructed to make THEIR way...:.	Nearly! were instructed to make THEIR way...:.			repair	lexical resource		
+2021-04-19 12:24:52	student012	student	69	almost...	almost...						
+2021-04-19 12:25:31	student012	student	70	27 The carnival's success was under threat due to lack of support	27 The carnival's success was under threat due to lack of support		5a	exercise	grammatical resource		
+2021-04-19 12:26:13	student012	student	71	28.... his decision was not open for discussion	28.... his decision was not open for discussion						
+2021-04-19 12:26:15	teacher008	teacher	72	Hmm, could you check the tense, please? And an article is missing	Hmm, could you check the tense, please? And an article is missing	70.0		eliciting,repair	grammatical resource		
+2021-04-19 12:26:18	teacher008	teacher	73	in 27	in 27						
+2021-04-19 12:26:33	student012	student	74	Oh sure. Sorry	Oh sure. Sorry						
+2021-04-19 12:26:48	student012	student	75	is under threat due to the lack	is under threat due to the lack						
+2021-04-19 12:27:14	teacher008	teacher	76	Yes, correct!	Yes, correct!						
+2021-04-19 12:27:38	student012	student	77	29 No matter how late it'll be ....	29 No matter how late it'll be ....		5b				
+2021-04-19 12:28:31	student012	student	78	30 I just caught a sight .a glimpse?. of Emma	30 I just caught sight (a glimpse?) of Emma			enquiry	lexical resource		
+2021-04-19 12:28:32	teacher008	teacher	79	The tense again in 29.	The tense again in 29.		5c	eliciting,repair	grammatical resource		
+2021-04-19 12:28:55	student012	student	80	do we need to use present tense after 'no matter'?	do we need to use the present tense after 'no matter'?			enquiry	grammatical resource		
+2021-04-19 12:28:58	teacher008	teacher	81	caught a glimpse / caught sight .no article. of = both correct	caught a glimpse / caught sight (no article) of = both correct	78.0		scaffolding,repair	lexical resource		
+2021-04-19 12:29:00	student012	student	82	the present tense	the present tense	80.0		repair	grammatical resource		
+2021-04-19 12:29:20	teacher008	teacher	83	Yes, you hardly ever need to change the tense in key word transformation!	Yes, you hardly ever need to change the tense in key word transformation!			scaffolding	grammatical resource		
+2021-04-19 12:29:37	student012	student	84	Ok. Then. No matter how late it is	Ok. Then. No matter how late it is						
+2021-04-19 12:29:53	student012	student	85	caught sight of -- noted	caught sight of -- noted	81.0					
+2021-04-19 12:30:00	teacher008	teacher	86	In fact, this is one of the things to watch out for, whether it's the same tense .or similar, both present / past / future.	In fact, this is one of the things to watch out for, whether it's the same tense (or similar, both present / past / future)	84.0		scaffolding	grammatical resource		
+2021-04-19 12:30:28	teacher008	teacher	87	And one last for 28: was not open TO FURTHER discussion	And one last for 28: was not open TO FURTHER discussion		5d	repair	lexical resource,grammatical resource		
+2021-04-19 12:30:51	teacher008	teacher	88	Tricky, I know!	Tricky, I know!						
+2021-04-19 12:31:03	student012	student	89	Right. We need to keep as much original information as possible	Right. We need to keep as much original information as possible						
+2021-04-19 12:31:30	teacher008	teacher	90	Yes, true! Unlike in speaking and writing, you actually paraphrase as little as possible	Yes, true! Unlike in speaking and writing, you actually paraphrase as little as possible			scaffolding	grammatical resource		
+2021-04-19 12:31:59	teacher008	teacher	91	In speaking and writing, you're encouraged to paraphrase, to show that you can use a range of vocabulary, not just the words from the task	In speaking and writing, you're encouraged to paraphrase, to show that you can use a range of vocabulary, not just the words from the task			scaffolding	grammatical resource		
+2021-04-19 12:32:13	student012	student	92	Right. Makes sense	Right. Makes sense						
+2021-04-19 12:33:40	teacher008	teacher	93	Ok! I actually thought we might practise some speaking questions today. Again, with the aim to show off that lovely language!	Ok! I actually thought we might practise some speaking questions today. Again, with the aim to show off that lovely language!		6.0	exercise	speaking		
+2021-04-19 12:34:11	student012	student	94	Maybe more tests? =.	Maybe more tests? =.						
+2021-04-19 12:34:52	teacher008	teacher	95	Nooo! Let's do something fun!	Nooo! Let's do something fun!						
+2021-04-19 12:34:56	teacher008	teacher	96	My idea of fun :.	My idea of fun :.						
+2021-04-19 12:35:01	student012	student	97	Tests are fun for me	Tests are fun for me						
+2021-04-19 12:35:09	student012	student	98	Speaking, however......	Speaking, however......						
+2021-04-19 12:35:46	teacher008	teacher	99	Ha, I'm like that too, to be honest!	Ha, I'm like that too, to be honest!						
+2021-04-19 12:36:22	teacher008	teacher	100	As you probably know, a part of the speaking is a collaborative task where you discuss something with the other candidate	As you probably know, a part of the speaking is a collaborative task where you discuss something with the other candidate		6a	scaffolding	speaking		
+2021-04-19 12:36:51	teacher008	teacher	101	And at least two parts are picture-based. An examiner gives you some pictures and asks questions based on them	And at least two parts are picture-based. An examiner gives you some pictures and asks questions based on them						
+2021-04-19 12:37:54	teacher008	teacher	102	Also, you will be expected to comment on the questions the other candidate is asked .not on their answers, thankfully!.	Also, you will be expected to comment on the questions the other candidate is asked (not on their answers, thankfully!)						
+2021-04-19 12:38:28	teacher008	teacher	103	But there are also some plain old question at the end, which give you a chance to speak on your own for a longer time	But there are also some plain old question at the end, which give you a chance to speak on your own for a longer time						
+2021-04-19 12:38:50	student012	student	104	Yes. I remember	Yes. I remember						
+2021-04-19 12:38:52	teacher008	teacher	105	Even though some examiners invite an exchange of opinions between candidates as well	Even though some examiners invite an exchange of opinions between candidates as well						
+2021-04-19 12:39:41	teacher008	teacher	106	At C2 level, they are quite abstract, the questions	At C2 level, they are quite abstract, the questions						
+2021-04-19 12:40:20	student012	student	107	Right	Right						
+2021-04-19 12:40:45	teacher008	teacher	108	The first part, however, are nice warm-up questions	The first part, however, are nice warm-up questions						
+2021-04-19 12:41:30	teacher008	teacher	109	The examiner says, I'd like to find out something about you. Where are you from? Are you working or studying? .the traditional beginning of all Cambridge English speaking exams it seems.	The examiner says, I'd like to find out something about you. Where are you from? Are you working or studying? .the traditional beginning of all Cambridge English speaking exams it seems.						
+2021-04-19 12:41:35	teacher008	teacher	110	And then something like	And then something like		6b	exercise	speaking		
+2021-04-19 12:42:00	teacher008	teacher	111	What do you enjoy best about the place where you're living now?	What do you enjoy best about the place where you're living now?						
+2021-04-19 12:42:18	teacher008	teacher	112	Could you give me 2-3-4 nice sentences?	Could you give me 2-3-4 nice sentences?						
+2021-04-19 12:42:38	student012	student	113	Oh... It'll be tough	Oh... It'll be tough						
+2021-04-19 12:45:25	teacher008	teacher	114	Well, you can always say that at the moment, in lockdown, it's hard to think of things you enjoy - as long as you give a nice answer in terms of language, it doesn't even have to be truthful!	Well, you can always say that at the moment, in lockdown, it's hard to think of things you enjoy - as long as you give a nice answer in terms of language, it doesn't even have to be truthful!						
+2021-04-19 12:47:15	student012	student	115	It would say the location, as my home is in the city center. It takes me 5 minutes to reach the nearest metro station. Moreover, I can just walk to Khreschatyk and avoid using any means of transport all-together. Other perks include the vicinity of the Botanical Garden and other green zones.	I would say the location, as my home is in the city center. It takes me 5 minutes to reach the nearest metro station. Moreover, I can just walk to Khreschatyk and avoid using any means of transport altogether. Other perks include the proximity to the Botanical Garden and other green zones.						
+2021-04-19 12:47:29	student012	student	116	* I would say	* I would say			repair	writing		
+2021-04-19 12:48:13	teacher008	teacher	117	Lovely!	Lovely!						
+2021-04-19 12:48:24	student012	student	118	But trust me	But trust me						
+2021-04-19 12:48:35	student012	student	119	It would have been much more messy in speech	It would have been much more messy in speech						
+2021-04-19 12:48:50	student012	student	120	It would be	It would be			repair	grammatical resource		
+2021-04-19 12:48:53	student012	student	121	....	....						
+2021-04-19 12:49:11	teacher008	teacher	122	Hmm, I don't know if I believe you because I heard you speak and you're fluent..	Hmm, I don't know if I believe you because I heard you speak and you're fluent..						
+2021-04-19 12:49:22	student012	student	123	When was it?	When was it?						
+2021-04-19 12:49:27	student012	student	124	I don't remember...	I don't remember...						
+2021-04-19 12:49:46	teacher008	teacher	125	Ok, next Cambridge wants to know, How difficult would it be for you to move away from the area you're living in now?	Ok, next Cambridge wants to know, How difficult would it be for you to move away from the area you're living in now?		6c	exercise	speaking		
+2021-04-19 12:50:07	teacher008	teacher	126	Back when you just opened ALMA I believe!	Back when you just opened ALMA I believe!	124.0					
+2021-04-19 12:50:08	student012	student	127	By the way, does the exam panel assess accents?	By the way, does the exam panel assess accents?		7.0	enquiry	speaking		
+2021-04-19 12:50:29	student012	student	128	Oh right! Maybe at Alias	Oh right! Maybe at Alias	126.0					
+2021-04-19 12:50:55	student012	student	129	My memory has worsen quite a bit after Maya's birth	My memory has worsened quite a bit after Maya's birth						
+2021-04-19 12:51:45	teacher008	teacher	130	It's absolutely fine to have an accent, everybody does .even the queen.. They assess intelligibility, the pronunciation / mispronunciation of individual words, sentence stress and intonation	It's absolutely fine to have an accent, everybody does (even the queen). They assess intelligibility, the pronunciation / mispronunciation of individual words, sentence stress and intonation	127.0					
+2021-04-19 12:52:11	teacher008	teacher	131	Yes, it must have been a game of Alias! I can't remember very clearly either	Yes, it must have been a game of Alias! I can't remember very clearly either	129.0					
+2021-04-19 12:52:48	teacher008	teacher	132	So unless your accent impedes comprehension, you're fine!	So unless your accent impedes comprehension, you're fine!	130.0					
+2021-04-19 12:53:45	teacher008	teacher	133	Ok, so How difficult would it be for you to move away from the area you're living in now?	Ok, so How difficult would it be for you to move away from the area you're living in now?		6d	redirection,exercise	speaking		
+2021-04-19 12:54:30	teacher008	teacher	134	.see what they are doing? eliciting conditionals and the language of speculation, like modals.	(see what they are doing? eliciting conditionals and the language of speculation, like modals)			scaffolding	speaking,grammatical resource		
+2021-04-19 12:57:39	student012	student	135	Not difficult at all. You see, the advantages I've just provided cannot overrule the disadvantages of my residential area. They are poor air quality, noise pollution, forlorn playgrounds and shabby infrastructure. So I'd move in no time.	Not difficult at all. You see, the advantages I've just provided cannot override the disadvantages of my residential area. They are poor air quality, noise pollution, forlorn playgrounds and shabby infrastructure. So I'd move in no time.	133.0					
+2021-04-19 12:57:57	student012	student	136	overrule or maybe override	overrule or maybe override			repair	lexical resource		
+2021-04-19 12:58:06	teacher008	teacher	137	Perfect! Great answer	Perfect! Great answer	135.0					
+2021-04-19 12:58:15	teacher008	teacher	138	override would be better, I agree!	override would be better, I agree!	136.0		scaffolding	lexical resource		
+2021-04-19 12:58:26	student012	student	139	It took me a while because I forgot how to spell forlorn	It took me a while because I forgot how to spell forlorn						
+2021-04-19 12:58:34	student012	student	140	Although I know how to pronounce it	Although I know how to pronounce it						
+2021-04-19 12:58:46	teacher008	teacher	141	You wouldn't have this problem in the speaking test!...	You wouldn't have this problem in the speaking test!...						
+2021-04-19 12:58:56	student012	student	142	Right. That's what I thought	Right. That's what I thought						
+2021-04-19 12:59:24	teacher008	teacher	143	Yes, the centre of Kyiv is so lovely and green, but not without its challenges, is it?	Yes, the centre of Kyiv is so lovely and green, but not without its challenges, is it?		8.0	topic opening			
+2021-04-19 12:59:35	student012	student	144	Indeed	Indeed						
+2021-04-19 12:59:44	student012	student	145	Yesterday, we travelled to Nyvky	Yesterday, we travelled to Nyvky						
+2021-04-19 13:00:03	student012	student	146	There's a residential area called Fayna Town	There's a residential area called Fayna Town						
+2021-04-19 13:00:04	teacher008	teacher	147	Oh yes, I stayed there for a month while doing CELTA	Oh yes, I stayed there for a month while doing CELTA	145.0					
+2021-04-19 13:00:13	teacher008	teacher	148	That must be new	That must be new	146.0					
+2021-04-19 13:00:26	student012	student	149	It's perfect in terms of air quality and infrustructure	It's perfect in terms of air quality and infrastructure						
+2021-04-19 13:00:51	student012	student	150	But the commute it tiring to say the least	But the commute it tiring to say the least						
+2021-04-19 13:01:08	student012	student	151	At peak hours around 2 hrs now	At peak hours around 2 hrs now						
+2021-04-19 13:01:11	teacher008	teacher	152	I remember lots of fresh fruit and vegetables at the market and a giant park	I remember lots of fresh fruit and vegetables at the market and a giant park	149.0					
+2021-04-19 13:01:15	teacher008	teacher	153	Ooh, horrible!	Ooh, horrible!	151.0					
+2021-04-19 13:01:21	student012	student	154	Yes. The area is wonderful	Yes. The area is wonderful	152.0					
+2021-04-19 13:01:26	student012	student	155	Our friends live there	Our friends live there						
+2021-04-19 13:01:36	student012	student	156	They've just bought an apartment	They've just bought an apartment						
+2021-04-19 13:01:49	teacher008	teacher	157	Are there nice schools, too?	Are there nice schools, too?						
+2021-04-19 13:02:08	student012	student	158	Their daughter goes to a school on Arsenalna Street	Their daughter goes to a school on Arsenalna Street						
+2021-04-19 13:02:35	student012	student	159	So I guess, no good schools	So I guess, no good schools						
+2021-04-19 13:02:48	teacher008	teacher	160	That's faraway, isn't it? from Nyvky	That's faraway, isn't it? from Nyvky						
+2021-04-19 13:02:55	teacher008	teacher	161	Ah, yes, that makes sense	Ah, yes, that makes sense						
+2021-04-19 13:03:00	student012	student	162	Yes, Arsenalna is near ALMA School	Yes, Arsenalna is near ALMA School	160.0					
+2021-04-19 13:03:16	teacher008	teacher	163	Yes, I thought so	Yes, I thought so						
+2021-04-19 13:04:12	student012	student	164	Ok. It's time already	Ok. It's time already		9.0	closing			
+2021-04-19 13:04:14	student012	student	165	I think	I think						
+2021-04-19 13:04:19	teacher008	teacher	166	Here in the UK, while kids are small, all house moves are dominated by the catchment area of schools. I bet it's universal though, for all families, not just in the UK, obviously	Here in the UK, while kids are small, all house moves are dominated by the catchment area of schools. I bet it's universal though, for all families, not just in the UK, obviously	163.0					
+2021-04-19 13:04:19	student012	student	167	Next Monday same time?	Next Monday same time?	165.0					
+2021-04-19 13:04:41	teacher008	teacher	168	Yes, I've got to let you go! Yes, sure, same time on Monday!	Yes, I've got to let you go! Yes, sure, same time on Monday!	165, 167					
+2021-04-19 13:04:46	student012	student	169	Right. It's more or less the same everywhere	Right. It's more or less the same everywhere	166.0					
+2021-04-19 13:04:53	teacher008	teacher	170	Have a lovely week :.	Have a lovely week :.	168.0					
+2021-04-19 13:04:56	student012	student	171	You too!	You too!						
+2021-04-19 13:05:01	student012	student	172	Thank you for the lesson	Thank you for the lesson						
+2021-04-19 13:05:05	student012	student	173	Bye!!!	Bye!!!						
+2021-04-19 13:05:09	teacher008	teacher	174	Yeah, of course, once you have a child:.	Yeah, of course, once you have a child:)	169.0					
+2021-04-19 13:05:19	teacher008	teacher	176	My pleasure, by!	My pleasure, by!	172.0					
+2021-04-19 13:05:22	teacher008	teacher	177	bye!	bye!			repair	writing		C2

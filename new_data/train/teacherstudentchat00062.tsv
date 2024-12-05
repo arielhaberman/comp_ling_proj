@@ -1,0 +1,96 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2020-04-08 10:15:58	student007	student	1	hi	hi		1.0	opening			
+2020-04-08 10:16:03	teacher001	teacher	2	HI...	HI...						
+2020-04-08 10:16:15	student007	student	3	I am here	I am here						
+2020-04-08 10:16:53	teacher001	teacher	4	So: 'one of the most significant negative effects children playing video games is that they can lead to violent behaviour.' = good!	So: 'one of the most significant negative effects children playing video games is that they can lead to violent behaviour.' = good!		2.0	exercise	writing		
+2020-04-08 10:17:04	teacher001	teacher	5	...effects of... I mean sorry	...effects of... I mean sorry			repair	writing		
+2020-04-08 10:17:37	teacher001	teacher	6	Ready to carry on?	Ready to carry on?						
+2020-04-08 10:18:37	student007	student	7	so..after 'OF' we can write the whole sentence with subjective ,verb and subjective right?	so..after 'OF' we can write the whole clause with a subject, verb and object, right?		2a	enquiry	grammatical resource		
+2020-04-08 10:18:52	student007	student	8	objective	object			repair	lexical resource		
+2020-04-08 10:19:55	student007	student	9	I think sometime after 'of' we write a noun	I think sometimes we write a noun after 'of'						
+2020-04-08 10:21:14	teacher001	teacher	10	Well bot are possible but we use 'that' before a clause (subject + verb) so ...you can say e.g. 'The effect of smoking is cancer.'. Or e.g. The effect of smoking is that the chances of cancer are higher. 'OK?	Well bot are possible but we use 'that' before a clause (subject + verb) so ...you can say e.g. 'The effect of smoking is cancer.'. Or e.g. The effect of smoking is that the chances of cancer are higher. 'OK?			scaffolding	grammatical resource		
+2020-04-08 10:21:45	student007	student	11	okey, thanks	ok, thanks						
+2020-04-08 10:21:50	teacher001	teacher	12	so the effect of x is NOUN ...OR the effect of x is that + CLAUSE (subject and verb)	so the effect of x is NOUN ...OR the effect of x is that + CLAUSE (subject and verb)			scaffolding	grammatical resource		
+2020-04-08 10:22:23	teacher001	teacher	13	or e.g. the effect of x is ADJECTIVE (common actually)	or e.g. the effect of x is ADJECTIVE (common actually)			scaffolding	grammatical resource		
+2020-04-08 10:22:49	teacher001	teacher	14	So for example : 'the effects of smoking are terrible.'	So for example : 'the effects of smoking are terrible.'			scaffolding	grammatical resource		
+2020-04-08 10:22:56	student007	student	15	I understand...thanks	I understand...thanks						
+2020-04-08 10:23:11	teacher001	teacher	16	OK no problem..so ready to try the next sentence?	OK no problem..so ready to try the next sentence?		2b	exercise	writing		
+2020-04-08 10:23:37	student007	student	17	yes, I am reday	yes, I am ready						
+2020-04-08 10:24:13	teacher001	teacher	18	ok go for it....i'll wait....	ok go for it....i'll wait....						
+2020-04-08 10:24:55	student007	student	19	it is difficult for children to realise between games word and reality.	it is difficult for children to distinguish between the world of a game and reality.						
+2020-04-08 10:27:11	student007	student	20	,because some games is for adults to forget pressure, and sometime it may have many violent contexts.	because some games are designed for adults to relieve stress, and sometimes they may have many violent content.						
+2020-04-08 10:28:34	teacher001	teacher	21	OK thanks <STUDENT>...I'll come back to the language here later OK? So next you're going to say that children copy the violence in some way?	OK thanks <STUDENT>...I'll come back to the language here later OK? So next you're going to say that children copy the violence in some way?		2c	eliciting	task achievement,writing		
+2020-04-08 10:28:57	student007	student	22	yes,,as result of..............	yes,,as a result of..............						
+2020-04-08 10:30:46	student007	student	23	as a result of, young people really easy to copy the violence in some ways, such as teas classmates.	As a result of this, young people can easily copy violent behaviour, such as bullying their classmates.						
+2020-04-08 10:33:00	teacher001	teacher	24	OK thanks <STUDENT> - have you finished? Here is your paragraph - I'll give you a minute to see if you want to change anything OK? Don't worry if you can't think of anything and try not to make really big changes OK?1	OK thanks <STUDENT> - have you finished? Here is your paragraph - I'll give you a minute to see if you want to change anything OK? Don't worry if you can't think of anything and try not to make really big changes OK?1		2d	eliciting,repair	lexical resource,grammatical resource		
+2020-04-08 10:33:05	teacher001	teacher	25	It is difficult for children to realise between games word and reality. because some games is for adults to forget pressure, and sometime it may have many violent contexts. as a result of, young people really easy to copy the violence in some ways, such as teas classmates.	It is difficult for children to realise between games word and reality. because some games is for adults to forget pressure, and sometime it may have many violent contexts. as a result of, young people really easy to copy the violence in some ways, such as teas classmates.						
+2020-04-08 10:33:43	student007	student	26	yes, that all	yes, that's all						
+2020-04-08 10:36:00	teacher001	teacher	27	OK thanks hold on...	OK thanks hold on...						
+2020-04-08 10:36:25	teacher001	teacher	28	OK thanks <STUDENT>....I get the idea of your first sentence:  “It is difficult for children to realise between games word and reality.”…...so to make this clearer in English we have a few options ok?! One choice would be to add the words 'the difference' e.g. the difference between e.g.  “It is difficult for children to tell the difference between video games and reality.” A more formal verb is ‘distinguish’ e.g. “It is difficult for children to distinguish between video games and reality”. OR you could also say:  “It is difficult for children to realise that video games are not real.”!	OK thanks <STUDENT>....I get the idea of your first sentence:  “It is difficult for children to realise between games word and reality.”…...so to make this clearer in English we have a few options ok?! One choice would be to add the words 'the difference' e.g. the difference between e.g.  “It is difficult for children to tell the difference between video games and reality.” A more formal verb is ‘distinguish’ e.g. “It is difficult for children to distinguish between video games and reality”. OR you could also say:  “It is difficult for children to realise that video games are not real.”!		3.0	scaffolding	lexical resource		
+2020-04-08 10:36:57	teacher001	teacher	29	But you can't say; ...'realise between...'	But you can't say; ...'realise between...'			scaffolding	lexical resource		
+2020-04-08 10:37:14	teacher001	teacher	30	Which one do you want to choose now?	Which one do you want to choose now?						
+2020-04-08 10:38:08	student007	student	31	it is difficult for children to distinguish between video games and reality.	it is difficult for children to distinguish between video games and reality.						
+2020-04-08 10:39:15	teacher001	teacher	32	OK nice! Here's your next one coming up ...can i ask you to think about your use ofsingular and plural here please? Because some games is for adults to forget pressure, and sometime it may have many violent content.	OK nice! Here's your next one coming up ...can i ask you to think about your use ofsingular and plural here please? Because some games is for adults to forget pressure, and sometime it may have many violent content.		3a	eliciting,repair	grammatical resource		
+2020-04-08 10:39:42	teacher001	teacher	33	By te way you can see I have changed contexts to 'content' - this is a good noun here ok?	By te way you can see I have changed contexts to 'content' - this is a good noun here ok?			scaffolding	lexical resource		
+2020-04-08 10:40:46	student007	student	34	okey, i saw it...I think adult is may a singular	ok, I saw it...I think adult is maybe singular						
+2020-04-08 10:41:32	teacher001	teacher	35	Um...'adults' is ok if you're talking about adults in general! hold on	Um...'adults' is ok if you're talking about adults in general! hold on						
+2020-04-08 10:42:10	teacher001	teacher	36	Your noun is 'some games' and this is fine...but what comes next? Singular or plural?	Your noun is 'some games' and this is fine...but what comes next? Singular or plural?		3b	eliciting	grammatical resource		
+2020-04-08 10:42:29	student007	student	37	are	are						
+2020-04-08 10:43:05	teacher001	teacher	38	ok good	ok good						
+2020-04-08 10:43:25	teacher001	teacher	39	and the next word you have to change to the plural??	and the next word you have to change to the plural??		3c	eliciting	grammatical resource		
+2020-04-08 10:43:36	teacher001	teacher	40	Again it connects back to 'some games'	Again it connects back to 'some games'						
+2020-04-08 10:44:24	teacher001	teacher	41	a tiny little word...!	a tiny little word...!						
+2020-04-08 10:46:02	teacher001	teacher	42	You OK <STUDENT>?	You OK <STUDENT>?						
+2020-04-08 10:46:11	teacher001	teacher	43	OK sorry - I'll help!	OK sorry - I'll help!						
+2020-04-08 10:46:30	teacher001	teacher	44	you need to change 'it' to  'they'	you need to change 'it' to  'they'						
+2020-04-08 10:46:54	teacher001	teacher	45	Oh maybe you're having internet issues?!	Oh maybe you're having internet issues?!						
+2020-04-08 10:50:46	student007	student	46	sorry..	sorry..						
+2020-04-08 10:50:57	student007	student	47	so...Because some games are for adults to forget pressured and sometime it may have violent contents.	so...because some games are designed for adults to relieve stress and  they may have violent content.						
+2020-04-08 10:52:11	teacher001	teacher	49	OK good ...thanks <STUDENT> ...small grammar changes it's true but I want you to get into the habit of seeing these mistakes so you change them (and eventually not make them in the first place!)	OK good ...thanks <STUDENT> ...small grammar changes it's true but I want you to get into the habit of seeing these mistakes so you change them (and eventually not make them in the first place!)		3d				
+2020-04-08 10:53:09	student007	student	50	yes,, I will get them into my habit,thanks	yes, I will make a habit of it, thanks						
+2020-04-08 10:53:20	teacher001	teacher	52	Ok so your last sentence was: 'As a result of, young people really easy to copy the violence in some ways, such as teas classmates.' What does 'teas' mean here??	Ok so your last sentence was: 'As a result of, young people really easy to copy the violence in some ways, such as teas classmates.' What does 'teas' mean here??		4.0	eliciting	lexical resource		
+2020-04-08 10:53:36	teacher001	teacher	53	Ah sorry i get it now !	Ah sorry i get it now !						
+2020-04-08 10:54:03	teacher001	teacher	54	You mean the verb 'tease' right?	You mean the verb 'tease' right?						
+2020-04-08 10:54:21	student007	student	56	I think the meaning here is that fight with other students who are not strong in class.	I think the meaning here is that they fight with other students who are not as strong in class.	52.0					
+2020-04-08 10:54:45	teacher001	teacher	57	Yes ok ok ...maybe 'bully' is a good verb here - do you know that word?	Yes ok ok ...maybe 'bully' is a good verb here - do you know that word?			scaffolding	lexical resource		
+2020-04-08 10:55:13	student007	student	58	no... but I study it now	no... but I'll learn it now						
+2020-04-08 10:56:35	teacher001	teacher	59	OK fine...yes  so e.g. 'Some children bully others.' 'Some children are bullies.' (noun for person)	OK fine...yes  so e.g. 'Some children bully others.' 'Some children are bullies.' (noun for person)			scaffolding	lexical resource		
+2020-04-08 10:56:48	teacher001	teacher	60	Some children are bullied at school  = passive	Some children are bullied at school  = passive			scaffolding	lexical resource		
+2020-04-08 10:57:15	teacher001	teacher	61	And finally ....the name of the problem = bullying ....so.....bullying is a serious problem in some schools	And finally ....the name of the problem = bullying ....so.....bullying is a serious problem in some schools			scaffolding	lexical resource		
+2020-04-08 10:57:20	teacher001	teacher	62	OK?!	OK?!						
+2020-04-08 10:58:14	student007	student	63	yes, so...as a result bullying is a serious problem in some school	yes, so...as a result bullying is a serious problem in some schools						
+2020-04-08 10:58:39	teacher001	teacher	64	Yes ok good! check for singular/plural mistakes <STUDENT> if you can please!!	Yes ok good! check for singular/plural mistakes <STUDENT> if you can please!!		4a	eliciting,repair	grammatical resource		
+2020-04-08 10:59:08	student007	student	65	schools!!	schools!!						
+2020-04-08 10:59:46	student007	student	66	as a result of, bullying is a serious problem in some schools.	as a result, bullying is a serious problem in some schools.						
+2020-04-08 11:00:17	teacher001	teacher	67	OK good wel ldone	OK good wel ldone						
+2020-04-08 11:00:33	teacher001	teacher	68	Ok <STUDENT> …the bit in CAPITAL letters needs changing OK? “As a result, young people REALLY EASY TO copy the violence in some ways, and bullying is a serious problem in some schools.”	Ok <STUDENT> …the bit in CAPITAL letters needs changing OK? “As a result, young people REALLY EASY TO copy the violence in some ways, and bullying is a serious problem in some schools.”		5.0	eliciting	grammatical resource		
+2020-04-08 11:00:59	teacher001	teacher	69	This is a structure you have used before and we need to get this right!	This is a structure you have used before and we need to get this right!						
+2020-04-08 11:01:39	teacher001	teacher	70	If you're not sure of an idea of how to change it tell me and we'll do it together OK?	If you're not sure of an idea of how to change it tell me and we'll do it together OK?						
+2020-04-08 11:02:37	student007	student	71	I am not sure...	I am not sure...						
+2020-04-08 11:03:26	teacher001	teacher	72	That's OK! Hold on...	That's OK! Hold on...						
+2020-04-08 11:04:42	teacher001	teacher	73	So for example we could use lots of possible phrases to explain the connection between seeing the violence and copying it ok?	So for example we could use lots of possible phrases to explain the connection between seeing the violence and copying it ok?		5a	presentation	lexical resource		
+2020-04-08 11:05:12	student007	student	74	ok'	ok'						
+2020-04-08 11:05:26	teacher001	teacher	75	One question: If I roll two dice the chances of me getting a double six are _______? Any ideas for the adjective?	One question: If I roll two dice the chances of me getting a double six are _______? Any ideas for the adjective?			eliciting	lexical resource		
+2020-04-08 11:05:43	teacher001	teacher	76	Don't worry if not! Just tell me...	Don't worry if not! Just tell me...						
+2020-04-08 11:06:36	teacher001	teacher	77	High or low?	High or low?						
+2020-04-08 11:06:52	student007	student	78	impossible	impossible	76.0					
+2020-04-08 11:06:55	student007	student	79	low	low	78.0					
+2020-04-08 11:07:09	teacher001	teacher	80	OK thanks!	OK thanks!						
+2020-04-08 11:07:38	teacher001	teacher	81	So another way of saying this could be: 'It is very _______ that you will get a double six.'?	So another way of saying this could be: 'It is very _______ that you will get a double six.'?		5b	eliciting	lexical resource		
+2020-04-08 11:07:49	teacher001	teacher	82	unl_ _ _ _ _ _ '??	unl_ _ _ _ _ _ '??			eliciting	lexical resource		
+2020-04-08 11:08:23	student007	student	83	unl....	unl....			eliciting	lexical resource		
+2020-04-08 11:08:47	teacher001	teacher	84	unlikely!	unlikely!						
+2020-04-08 11:09:33	teacher001	teacher	85	So if children play violent video games they are _______ to copy the behaviour they see.'	So if children play violent video games they are _______ to copy the behaviour they see.'		5c	eliciting	lexical resource		
+2020-04-08 11:09:45	teacher001	teacher	86	Likely or unlikely?	Likely or unlikely?			eliciting	lexical resource		
+2020-04-08 11:09:53	student007	student	87	wow..	wow..	84.0					
+2020-04-08 11:09:53	student007	student	88	it is very unlikely that you will get a double six	it is very unlikely that you will get a double six						
+2020-04-08 11:10:23	student007	student	94	sorry.....	sorry.....						
+2020-04-08 11:10:31	teacher001	teacher	95	OK yes good! and the next example? That's ok!	OK yes good! and the next example? That's ok!	86.0		eliciting	lexical resource		
+2020-04-08 11:10:32	student007	student	96	likely	likely						
+2020-04-08 11:11:39	teacher001	teacher	97	OK good ...so this is one way you can explain that connection OK? INstead of using 'easy'	OK good ...so this is one way you can explain that connection OK? INstead of using 'easy'			scaffolding	lexical resource,writing		
+2020-04-08 11:12:03	student007	student	98	yes,,it become more academic	yes, it becomes more academic						
+2020-04-08 11:13:15	teacher001	teacher	100	OK fine....<STUDENT> I'll copy the final complete paragraph and we can give it a final review tomorrow OK?  Thanks for your concentration and hard work today!	OK fine....<STUDENT> I'll copy the final complete paragraph and we can give it a final review tomorrow OK?  Thanks for your concentration and hard work today!		6.0	closing			
+2020-04-08 11:13:40	teacher001	teacher	101	Enjoy your hotel (sorry!)	Enjoy your hotel (sorry!)						
+2020-04-08 11:13:43	student007	student	102	yes..thank you very much.	yes..thank you very much.						
+2020-04-08 11:13:54	teacher001	teacher	103	OK thanks bye for now	OK thanks bye for now						
+2020-04-08 11:14:04	student007	student	104	see you tomorrow.	see you tomorrow.						B1

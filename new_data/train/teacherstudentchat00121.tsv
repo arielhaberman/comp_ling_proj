@@ -1,0 +1,160 @@
+timestamp	user.id	role	turn.number	anonymised	edited	responding.to	sequence	seq.type	focus	resource	assessment
+2020-10-15 12:30:09	student015	student	1	Hello, I see you are here.	Hello, I see you are here.		1.0	opening			
+2020-10-15 12:30:24	student015	student	2	Hello,  <TEACHER>	Hello,  <TEACHER>						
+2020-10-15 12:30:33	teacher008	teacher	3	Hello <STUDENT> - welcome to the project :)	Hello <STUDENT> - welcome to the project :)						
+2020-10-15 12:31:07	student015	student	4	Then, let’s get started.	Then, let’s get started.						
+2020-10-15 12:31:13	teacher008	teacher	5	How are you? And where are you in China?	How are you? And where are you in China?		2.0	topic opening			
+2020-10-15 12:31:37	student015	student	6	I'm fine. I'm in Beijing China	I'm fine. I'm in Beijing China						
+2020-10-15 12:33:29	student015	student	7	OK	OK						
+2020-10-15 12:33:39	teacher008	teacher	8	So sorry, my technology's letting me down today!	So sorry, my technology's letting me down today!		3.0	disruption			
+2020-10-15 12:33:53	teacher008	teacher	10	It'll be ok in a minute	It'll be ok in a minute						
+2020-10-15 12:33:54	student015	student	11	It's ok	It's ok						
+2020-10-15 12:34:01	teacher008	teacher	12	Hopefully	Hopefully	10.0					
+2020-10-15 12:34:10	student015	student	13	I will wait for you	I will wait for you						
+2020-10-15 12:34:15	teacher008	teacher	14	Thank you	Thank you						
+2020-10-15 12:34:31	teacher008	teacher	15	I lived in China for a year - in Shanghai	I lived in China for a year - in Shanghai		4.0	topic opening			
+2020-10-15 12:34:47	student015	student	16	Please let me kown if you are ready	Please let me know if you are ready	14.0					
+2020-10-15 12:34:50	teacher008	teacher	17	It was a fantastic experience!	It was a fantastic experience!	15.0					
+2020-10-15 12:35:08	teacher008	teacher	18	It seems to be working now, feel free to type	It seems to be working now, feel free to type	16.0					
+2020-10-15 12:35:18	student015	student	19	Ok	Ok						
+2020-10-15 12:36:07	teacher008	teacher	21	And now I live in the UK and am an English teacher. What do you do?	And now I live in the UK and am an English teacher. What do you do?	17.0	4a	topic development			
+2020-10-15 12:36:34	student015	student	22	I'm an engineer.	I'm an engineer.						
+2020-10-15 12:36:54	student015	student	23	Focus on machine learning	Focus on machine learning						
+2020-10-15 12:37:07	teacher008	teacher	24	Ah, interesting!	Ah, interesting!						
+2020-10-15 12:37:25	teacher008	teacher	25	Do you use English at work?	Do you use English at work?		4b	topic development			
+2020-10-15 12:38:19	student015	student	26	No. But I often read papers in English.	No. But I often read papers in English.						
+2020-10-15 12:38:39	student015	student	27	We do not talk in English at work	We do not talk in English at work						
+2020-10-15 12:38:48	teacher008	teacher	28	Ok, I see!	Ok, I see!						
+2020-10-15 12:39:06	student015	student	29	So what's your project?	So what's your project?		4c	topic development			
+2020-10-15 12:39:40	teacher008	teacher	30	So what's your aim with improving your English? To understand more when you read / to write / to speak? All of the above?	So what's your aim with improving your English? To understand more when you read / to write / to speak? All of the above?		4d	topic development			
+2020-10-15 12:40:19	student015	student	31	I think it's spoken English.	I think it's spoken English.						
+2020-10-15 12:40:32	teacher008	teacher	32	This research project is all about understanding how teaching English works, so that it can be taught to artificial intelligence	This research project is all about understanding how teaching English works, so that it can be taught to artificial intelligence	29.0					
+2020-10-15 12:40:41	teacher008	teacher	33	As far as I understand	As far as I understand						
+2020-10-15 12:41:20	teacher008	teacher	34	To be honest, I annotate and generate some of the data for the project, but I know little about what happens afterwards	To be honest, I annotate and generate some of the data for the project, but I know little about what happens afterwards						
+2020-10-15 12:41:31	student015	student	35	Ok. Actually I also do project for AI, like chatbot	Ok. Actually I'm also doing a project for AI, like a chatbot						
+2020-10-15 12:42:10	teacher008	teacher	36	Yes, the aim is to create a charbot as far as I understand	Yes, the aim is to create a charbot as far as I understand						
+2020-10-15 12:42:20	student015	student	37	It should be a QA chatbot using AL algorithms.	It should be a QA chatbot using AL algorithms.						
+2020-10-15 12:42:52	teacher008	teacher	38	What are AL algorithms, please?	What are AL algorithms, please?		4e	enquiry			
+2020-10-15 12:43:05	student015	student	39	Haha, It's interesting. I will pay attention to your project	Haha, It's interesting. I will pay attention to your project	36.0					
+2020-10-15 12:43:26	student015	student	40	Sorry. It's AI algorithms	Sorry. It's AI algorithms	38.0		clarification,repair	writing		
+2020-10-15 12:43:32	teacher008	teacher	41	Thank you. Like I say, I know very little about the end product!	Thank you. Like I say, I know very little about the end product!	39.0					
+2020-10-15 12:43:42	teacher008	teacher	42	Ah, got you, no problem	Ah, got you, no problem	40.0					
+2020-10-15 12:44:31	student015	student	43	I will join in a lab to do research on AI in bioinformatics	I will join in a lab to do a research on AI in bioinformatics		4f	topic development			
+2020-10-15 12:44:59	student015	student	44	And my supervisor speak English.	And my supervisor speaks English.						
+2020-10-15 12:45:04	teacher008	teacher	45	<STUDENT>, I have to ask, I'm not very good at identifying whether a Chinese name is male or female, could you tell me your gender please? If you're having the same problem with my name, I'm a woman :)	<STUDENT>, I have to ask, I'm not very good at identifying whether a Chinese name is male or female, could you tell me your gender please? If you're having the same problem with my name, I'm a woman :)		5.0	topic opening			
+2020-10-15 12:45:21	student015	student	46	Male	Male						
+2020-10-15 12:45:28	teacher008	teacher	47	Thank you	Thank you						
+2020-10-15 12:46:28	teacher008	teacher	48	my supervisor speak Englis' Can you spot a mistake?	my supervisor speak Englis' Can you spot a mistake?		6.0	eliciting,repair	grammatical resource		
+2020-10-15 12:46:35	teacher008	teacher	49	A grammatical one	A grammatical one			eliciting,repair	grammatical resource		
+2020-10-15 12:46:53	teacher008	teacher	50	*English, sorry	*English, sorry	48.0		repair	writing		
+2020-10-15 12:47:41	student015	student	51	My supervisor speaks English. Right?	My supervisor speaks English. Right?						
+2020-10-15 12:47:53	teacher008	teacher	52	Yes, correct!	Yes, correct!						
+2020-10-15 12:48:17	teacher008	teacher	53	I'm just trying to identify some areas we could work on, don't worry about it	I'm just trying to identify some areas we could work on, don't worry about it						
+2020-10-15 12:48:26	student015	student	54	Ok	Ok						
+2020-10-15 12:48:47	teacher008	teacher	55	So what kind of Q&amp;A is your chatbot going to do?	So what kind of Q&amp;A is your chatbot going to do?		4g	topic development			
+2020-10-15 12:49:10	teacher008	teacher	56	It's QA as in questions and answers, right? Or not?	It's QA as in questions and answers, right? Or not?						
+2020-10-15 12:49:36	student015	student	57	I collect some conversationf from the forum	I collect some conversations from the forum	55.0					
+2020-10-15 12:50:04	student015	student	58	yes, questions and answers	yes, questions and answers	56.0					
+2020-10-15 12:50:25	student015	student	59	But it's just for technical questions	But it's just for technical questions						
+2020-10-15 12:50:43	teacher008	teacher	60	I see! What are the conversations about?	I see! What are the conversations about?	57.0					
+2020-10-15 12:50:53	teacher008	teacher	61	Oh, I see!	Oh, I see!	59.0					
+2020-10-15 12:50:59	student015	student	62	Because my coversations comes from ubuntu system forum.	Because my coversations come from an Ubuntu system forum.						
+2020-10-15 12:51:36	teacher008	teacher	63	I see! I once had a laptop on Ubuntu, a while ago	I see! I once had a laptop on Ubuntu, a while ago						
+2020-10-15 12:52:03	student015	student	64	I know you are an English teacher. So, do you have any good advice in learning spoken English.	I know you are an English teacher. So, do you have any good advice on learning spoken English.		7.0	enquiry	meta knowledge		
+2020-10-15 12:52:41	teacher008	teacher	65	Well, your written English is pretty good. What kind of problems do you experience when you speak?	Well, your written English is pretty good. What kind of problems do you experience when you speak?						
+2020-10-15 12:53:43	student015	student	66	Thanks. I often make mistakes about something like: do doing done	Thanks. I often make mistakes with something like: do doing done						
+2020-10-15 12:54:12	student015	student	67	Because Chinese do not have this types of words.	Because Chinese does not have these types of words.						
+2020-10-15 12:54:19	teacher008	teacher	68	The tenses? I do vs. I'm doing?	The tenses? I do vs. I'm doing?			scaffolding	grammatical resource,meta knowledge		
+2020-10-15 12:54:26	student015	student	69	yes. tenses	yes, tenses						
+2020-10-15 12:54:58	teacher008	teacher	70	Yes, I know that tenses are expressed very differently in Chinese	Yes, I know that tenses are expressed very differently in Chinese						
+2020-10-15 12:55:02	student015	student	71	When I talk, I must think a while for this things	When I talk, I must think a while about these things						
+2020-10-15 12:55:24	teacher008	teacher	73	Ok, now I'm getting a slightly better idea	Ok, now I'm getting a slightly better idea						
+2020-10-15 12:55:38	teacher008	teacher	74	We can definitely look at some tenses!	We can definitely look at some tenses!						
+2020-10-15 12:57:31	teacher008	teacher	75	Is Present Simple and Present Continuous something you know about?	Is Present Simple and Present Continuous something you know about?		7a	eliciting	grammatical resource,meta knowledge		
+2020-10-15 12:58:01	teacher008	teacher	76	I know English is taught very differently in different countries	I know English is taught very differently in different countries						
+2020-10-15 12:58:27	student015	student	77	Yes. I learn it. I know the concepts	Yes. I've learned them. I know the concepts						
+2020-10-15 12:59:41	teacher008	teacher	78	Ok, you me mentioned your AI project	Ok, you me mentioned your AI project		7b	scaffolding	grammatical resource		
+2020-10-15 13:00:01	teacher008	teacher	79	It's something you're working on this month / year	It's something you're working on this month / year			scaffolding	grammatical resource		
+2020-10-15 13:00:08	teacher008	teacher	80	Right?	Right?						
+2020-10-15 13:00:23	teacher008	teacher	81	So Present Continuous would be good here	So Present Continuous would be good here			scaffolding	grammatical resource		
+2020-10-15 13:00:52	teacher008	teacher	82	I'm working on a Q&amp;A chatbot'	I'm working on a Q&amp;A chatbot'			scaffolding	grammatical resource		
+2020-10-15 13:01:06	teacher008	teacher	83	Better than 'I work'	Better than 'I work'			scaffolding	grammatical resource		
+2020-10-15 13:01:36	teacher008	teacher	84	Sorry, this is <TEACHER>	Sorry, this is <TEACHER>		8.0	disruption			
+2020-10-15 13:01:49	teacher008	teacher	85	I switched from my phone to my laptop	I switched from my phone to my laptop						
+2020-10-15 13:02:13	teacher008	teacher	86	My laptop decided it needed to configure Windows just before our class! So frustrating. But it's done now	My laptop decided it needed to configure Windows just before our class! So frustrating. But it's done now						
+2020-10-15 13:02:42	student015	student	87	It's ok	It's ok						
+2020-10-15 13:03:41	teacher008	teacher	88	Does this make sense? 'I work in the sphere of machine learning' (all the time, it's your profession - Present Simple) vs. 'I'm working on a chatbot now' (a temporary project - Present Continuous)	Does this make sense? 'I work in the sphere of machine learning' (all the time, it's your profession - Present Simple) vs. 'I'm working on a chatbot now' (a temporary project - Present Continuous)	83.0		scaffolding	grammatical resource		
+2020-10-15 13:04:30	student015	student	89	I don’t know what's the differents. I work or I'm working, maybe same thing?	I don’t know what's the difference. I work or I'm working, maybe they are the same thing?		7c	enquiry	grammatical resource		
+2020-10-15 13:04:42	teacher008	teacher	90	Not exactly!	Not exactly!						
+2020-10-15 13:05:03	teacher008	teacher	91	For example, I'm an English teacher. I teach English - Present Simple	For example, I'm an English teacher. I teach English - Present Simple			scaffolding	grammatical resource		
+2020-10-15 13:05:12	teacher008	teacher	92	Now, I'm working in this research project	Now, I'm working in this research project			scaffolding	grammatical resource		
+2020-10-15 13:05:26	teacher008	teacher	93	But I didn't before and I probably won't be forever!	But I didn't before and I probably won't be forever!			scaffolding	grammatical resource		
+2020-10-15 13:05:37	teacher008	teacher	94	it's a continuous temporary situation	it's a continuous temporary situation			scaffolding	grammatical resource		
+2020-10-15 13:06:30	student015	student	95	I think this is about the 'time'.	I think this is about the 'time'.						
+2020-10-15 13:07:03	teacher008	teacher	96	Well, the time is present in both cases	Well, the time is present in both cases			scaffolding	grammatical resource		
+2020-10-15 13:07:25	teacher008	teacher	97	But continuous tenses stress the process, not something that is always the case	But continuous tenses stress the process, not something that is always the case			scaffolding	grammatical resource		
+2020-10-15 13:07:47	teacher008	teacher	98	For example, I read a lot of books. Now, I'm reading book 'X'	For example, I read a lot of books. Now, I'm reading book 'X'			scaffolding	grammatical resource		
+2020-10-15 13:08:05	teacher008	teacher	99	I read a lot of books. - it's always the case, it's a fact about me	I read a lot of books. - it's always the case, it's a fact about me			scaffolding	grammatical resource		
+2020-10-15 13:08:27	teacher008	teacher	100	I'm reading book X - just now, I'm in the process of reading book 'X'	I'm reading book X - just now, I'm in the process of reading book 'X'			scaffolding	grammatical resource		
+2020-10-15 13:08:50	student015	student	101	Ok. I got it.	Ok. I got it.						
+2020-10-15 13:09:07	teacher008	teacher	102	Ok! I'm going to ask you some questions, to practise this	Ok! I'm going to ask you some questions, to practise this		9.0	exercise,free practice	grammatical resource		
+2020-10-15 13:09:22	teacher008	teacher	103	Do you like reading books?	Do you like reading books?			eliciting	grammatical resource		
+2020-10-15 13:11:35	student015	student	104	continuous tenses?	continuous tense?						
+2020-10-15 13:12:10	teacher008	teacher	105	No, this is actually Present Simple. Do you like books? or maybe video games? or TV?	No, this is actually Present Simple. Do you like books? or maybe video games? or TV?			scaffolding,eliciting	grammatical resource		
+2020-10-15 13:12:15	student015	student	106	Present Simple	Present Simple						
+2020-10-15 13:12:25	teacher008	teacher	107	That's right	That's right						
+2020-10-15 13:12:46	teacher008	teacher	108	What's your answer? :)	What's your answer? :)			eliciting	grammatical resource		
+2020-10-15 13:13:09	student015	student	109	Present Simple	Present Simple						
+2020-10-15 13:13:35	teacher008	teacher	110	Yes, correct. I mean, could you answer the question about books? Do you, <STUDENT>, like books?	Yes, correct. I mean, could you answer the question about books? Do you, <STUDENT>, like books?			clarification,eliciting	grammatical resource		
+2020-10-15 13:13:53	student015	student	111	Yes	Yes						
+2020-10-15 13:14:03	student015	student	112	I like reading books	I like reading books						
+2020-10-15 13:14:13	teacher008	teacher	113	Ok, cool! Thanks for the full answer	Ok, cool! Thanks for the full answer						
+2020-10-15 13:14:33	teacher008	teacher	114	Are you reading a book now? Not right this second, but maybe this week or this month?	Are you reading a book now? Not right this second, but maybe this week or this month?		9a	eliciting	grammatical resource		
+2020-10-15 13:15:46	student015	student	115	Yes. It's title is Pattern Recognition and Machine Learning.	Yes. Its title is Pattern Recognition and Machine Learning.						
+2020-10-15 13:16:04	student015	student	116	Its	Its			repair	grammatical resource		
+2020-10-15 13:16:19	teacher008	teacher	117	Ok, perfect. So you could say, 'I__ ____ Pattern Recognition and Machine Learning now'	Ok, perfect. So you could say, 'I__ ____ Pattern Recognition and Machine Learning now'			eliciting	grammatical resource		
+2020-10-15 13:16:30	teacher008	teacher	118	Good correction, 'its'	Good correction, 'its'	116.0					
+2020-10-15 13:16:47	student015	student	119	am reading	am reading	117.0					
+2020-10-15 13:16:54	teacher008	teacher	120	Yes, perfect	Yes, perfect						
+2020-10-15 13:17:24	teacher008	teacher	121	Is this something that you already know and is easy for you? Or is it new / interesting? I mean Present Simple vs. Present Continuous	Is this something that you already know and is easy for you? Or is it new / interesting? I mean Present Simple vs. Present Continuous		9b				
+2020-10-15 13:18:33	student015	student	122	When I was in school I learnt it, now I know it again.	When I was at school I learnt it, now I know it again.						
+2020-10-15 13:18:53	teacher008	teacher	123	Ok, cool	Ok, cool						
+2020-10-15 13:19:05	teacher008	teacher	124	Is the Golden Week over in China now?	Is the Golden Week over in China now?		10.0	topic opening			
+2020-10-15 13:19:39	student015	student	125	Yes. it was already over.	Yes. it is already over.						
+2020-10-15 13:20:17	teacher008	teacher	126	Did you have a good holiday?	Did you have a good holiday?						
+2020-10-15 13:20:56	student015	student	127	yes. I had.	yes, I did						
+2020-10-15 13:21:12	teacher008	teacher	128	Ok, can you tell me a bit about it?	Ok, can you tell me a bit about it?						
+2020-10-15 13:22:51	student015	student	129	Because the () is not so serious in China now, so I went out last week.	The () is not so serious in China now, so I went out last week.		10a	enquiry	lexical resource,writing		
+2020-10-15 13:23:21	student015	student	130	pandemic? I don’t know how to type it	pandemic? I don’t know how to spell it			enquiry	lexical resource,writing		
+2020-10-15 13:23:26	teacher008	teacher	131	Right, that's good! Well done China! It's back here, badly	Right, that's good! Well done China! It's back here, badly	129.0					
+2020-10-15 13:23:30	teacher008	teacher	132	the pandemic, correct!	the pandemic, correct!	130.0		scaffolding	lexical resource,writing		
+2020-10-15 13:23:59	student015	student	133	Sorry about it.	Sorry about it.	131.0					
+2020-10-15 13:24:05	teacher008	teacher	134	I remember the Golden Week in Shanghai. Beautiful! My son was born just before it	I remember the Golden Week in Shanghai. Beautiful! My son was born just before it		10b	topic development			
+2020-10-15 13:24:27	teacher008	teacher	135	Thank you. There is a partial lockdown	Thank you. There is a partial lockdown	133.0					
+2020-10-15 13:24:36	student015	student	136	Wow. You came to China before?	Wow. You've been to China before?	134.0					
+2020-10-15 13:24:41	teacher008	teacher	137	I mean there is a lockdown in some areas of the UK but not others	I mean there is a lockdown in some areas of the UK but not others	135.0					
+2020-10-15 13:25:00	student015	student	138	Yes. I know the situation.	Yes. I know the situation.						
+2020-10-15 13:25:06	teacher008	teacher	139	Yes! Did I not mention it? Sorry, it's jumping between my phone and my silly laptop again!	Yes! Did I not mention it? Sorry, it's jumping between my phone and my silly laptop again!	136.0					
+2020-10-15 13:25:16	teacher008	teacher	140	I spent a year in Shanghai, my son was born there!	I spent a year in Shanghai, my son was born there!						
+2020-10-15 13:25:45	student015	student	141	Great! Shanghai is a famous city in China.	Great! Shanghai is a famous city in China.						
+2020-10-15 13:25:59	student015	student	142	I will move to Shanghai next year.	I will move to Shanghai next year.						
+2020-10-15 13:26:04	teacher008	teacher	143	I love it! I'm really nostalgic about it	I love it! I'm really nostalgic about it						
+2020-10-15 13:26:15	teacher008	teacher	144	Really? Exciting!	Really? Exciting!	142.0					
+2020-10-15 13:26:21	teacher008	teacher	145	Have you been there before?	Have you been there before?						
+2020-10-15 13:26:50	student015	student	146	Yes. I went there to see my friends before.	Yes. I went there to see my friends before.						
+2020-10-15 13:27:22	student015	student	147	And next year I will join a lab in Fudan Univesity, as a PHD	And next year I will join a lab in Fudan Univesity, as a PHD						
+2020-10-15 13:27:47	teacher008	teacher	148	Lovely. Hopefully, we can talk some more about it next time. Do you think these lessons are useful for you? Would you like to continue? We can focus on tenses in the future	Lovely. Hopefully, we can talk some more about it next time. Do you think these lessons are useful for you? Would you like to continue? We can focus on tenses in the future		10c	topic closure,enquiry			
+2020-10-15 13:28:15	teacher008	teacher	149	Oh, good! I bet you're excited abou it!	Oh, good! I bet you're excited abou it!	147.0					
+2020-10-15 13:28:22	teacher008	teacher	150	*about	*about			repair	writing		
+2020-10-15 13:28:24	student015	student	151	Yes. of course.	Yes. of course.	148.0					
+2020-10-15 13:28:42	teacher008	teacher	152	Ok, great. Would the same time next week suit you?	Ok, great. Would the same time next week suit you?						
+2020-10-15 13:29:28	student015	student	153	It's depend on you. My time is ok in this slots	It depends on you. My time is ok in this slots						
+2020-10-15 13:29:39	teacher008	teacher	154	Yes, mine too	Yes, mine too						
+2020-10-15 13:29:52	student015	student	155	SO, we can talk in next week?	SO, we can talk next week?						
+2020-10-15 13:30:25	teacher008	teacher	156	Great, in this case I'll pop some homework on Present Simple vs Present Continuous in an email for you, if you have time for it	Great, in this case I'll pop some homework on Present Simple vs Present Continuous in an email for you, if you have time for it			homework			
+2020-10-15 13:30:32	teacher008	teacher	157	Yes, absolutely, same time next week	Yes, absolutely, same time next week	155.0					
+2020-10-15 13:30:41	student015	student	158	Thanks a lot.	Thanks a lot.						
+2020-10-15 13:30:51	teacher008	teacher	159	Lovely, thank you. Take care!	Lovely, thank you. Take care!						
+2020-10-15 13:31:10	student015	student	160	OK. See you next week!	OK. See you next week!						
+2020-10-15 13:31:23	teacher008	teacher	161	See you!	See you!						
+2020-10-15 13:31:39	teacher008	teacher	162	You can just leave the chatroom, everything is saved automatically	You can just leave the chatroom, everything is saved automatically						B2
